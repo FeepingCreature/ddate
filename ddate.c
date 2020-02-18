@@ -106,6 +106,41 @@ char *day_long[5] = {
     "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange"
 };
 
+/**
+ * Produced by iteratedly feeding the list of five days into talktotransformer.com running the
+ * 1.4 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
+ * subset of the Internet.
+ * This felt appropriate.
+ */
+char *day_extended[72] = {
+    /*0*/"Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+    /*5*/"Lightning Cream", "Cloudbank", "Ponderosa Pink", "Cactus", "Plumeria",
+    /*10*/"Whispering Wind", "Sunburst", "Violet City", "Purple Rain", "Gem of Color",
+    /*15*/"Mint Flower", "Pineapple Express", "Beach Ball", "Serenity of the Seas", "Window Bright",
+    /*20*/"Bluewater", "Desert Bloom", "Blue Eyes Pure", "Nuit Blanche", "Frilly Knickers",
+    /*25*/"Exotic Dreams", "Cheesy Dip", "Hinky Dinkies", "Blue My Lips", "I'm a Cheer",
+    /*30*/"Tiger Dream", "Naughty Club", "Zesty Zigzags", "Sexy Story", "Calico Cat",
+    /*35*/"Mega Mango", "Catch a Wave", "Island Dance", "Fantasy in Lavender", "Siren's Mist",
+    /*40*/"Secret Hideout", "Soft Life", "Chocolate Me, Kiss Me", "Cerulean's Room", "Wonder Mtn.",
+    /*45*/"Gone Gr8y, Gone Gr8y, Gone Gr8y", "Chirpy Birdy, Forget Me Now", "Amazing Sadness",
+    "Another Vibration", "Infinite Needles",
+    /*50*/"Time after Time, Catch a Wave", "A Distant Call", "Sing for the Sun", "Indivisible, Avaritia",
+    "Inner Cry",
+    /*55*/"Faint Green Space", "Jack-a-Nap Time", "Frozen Cosmos", "Greatest Love of All",
+    "Around the Sun",
+    /*60*/"Two Fluke, not one",
+    "After three years, and three years without singing the melodies of this song",
+    "In the Nightingale", "Jangling", "I can tell her apart by her noise!",
+    /*65*/"Splinter of the Diamond",
+    "Raising of the Stones, after the first time, before we hear the \"final\" version",
+    "The first time I ever heard the lyric \"This is not for the faint of heart\"",
+    "The choir singing the chorus, (But then in the second solo) after the first time I heard it",
+    "I could NOT believe the unnatural slow down between 12 and 22",
+    /*70*/"The first time I heard the piano solo, starting at 12:30, which was like "
+    "\"seven\" after every chord in the piano played",
+    "The re-positioning of the orchestra starting around 2:00, which wasn't anything I had ever noticed before.",
+};
+
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
 
 char *season_long[5] = { 
@@ -288,6 +323,7 @@ void format(char *buf, const char* fmt, struct disc_time dt)
 		case 'd': sprintf(snarf, "%d", dt.day+1); wibble=snarf; break;
 		case 'e': sprintf(snarf, "%d%s", dt.day+1, ending(dt.day+1)); 
 		    wibble=snarf; break;
+        case 'G': wibble=day_extended[dt.day]; break;
 		case 'H': if(dt.day==4||dt.day==49)
 		    wibble=holyday[dt.season][dt.day==49]; break;
 		case 'N': if(dt.day!=4&&dt.day!=49) goto eschaton; break;
