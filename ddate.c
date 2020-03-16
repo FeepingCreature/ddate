@@ -108,37 +108,27 @@ char *day_long[5] = {
 
 /**
  * Produced by iteratedly feeding the list of five days into talktotransformer.com running the
- * 1.4 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
+ * 1.5 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
  * subset of the Internet.
  * This felt appropriate.
  */
 char *day_extended[72] = {
     /*0*/"Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-    /*5*/"Lightning Cream", "Cloudbank", "Ponderosa Pink", "Cactus", "Plumeria",
-    /*10*/"Whispering Wind", "Sunburst", "Violet City", "Purple Rain", "Gem of Color",
-    /*15*/"Mint Flower", "Pineapple Express", "Beach Ball", "Serenity of the Seas", "Window Bright",
-    /*20*/"Bluewater", "Desert Bloom", "Blue Eyes Pure", "Nuit Blanche", "Frilly Knickers",
-    /*25*/"Exotic Dreams", "Cheesy Dip", "Hinky Dinkies", "Blue My Lips", "I'm a Cheer",
-    /*30*/"Tiger Dream", "Naughty Club", "Zesty Zigzags", "Sexy Story", "Calico Cat",
-    /*35*/"Mega Mango", "Catch a Wave", "Island Dance", "Fantasy in Lavender", "Siren's Mist",
-    /*40*/"Secret Hideout", "Soft Life", "Chocolate Me, Kiss Me", "Cerulean's Room", "Wonder Mtn.",
-    /*45*/"Gone Gr8y, Gone Gr8y, Gone Gr8y", "Chirpy Birdy, Forget Me Now", "Amazing Sadness",
-    "Another Vibration", "Infinite Needles",
-    /*50*/"Time after Time, Catch a Wave", "A Distant Call", "Sing for the Sun", "Indivisible, Avaritia",
-    "Inner Cry",
-    /*55*/"Faint Green Space", "Jack-a-Nap Time", "Frozen Cosmos", "Greatest Love of All",
-    "Around the Sun",
-    /*60*/"Two Fluke, not one",
-    "After three years, and three years without singing the melodies of this song",
-    "In the Nightingale", "Jangling", "I can tell her apart by her noise!",
-    /*65*/"Splinter of the Diamond",
-    "Raising of the Stones, after the first time, before we hear the \"final\" version",
-    "The first time I ever heard the lyric \"This is not for the faint of heart\"",
-    "The choir singing the chorus, (But then in the second solo) after the first time I heard it",
-    "I could NOT believe the unnatural slow down between 12 and 22",
-    /*70*/"The first time I heard the piano solo, starting at 12:30, which was like "
-    "\"seven\" after every chord in the piano played",
-    "The re-positioning of the orchestra starting around 2:00, which wasn't anything I had ever noticed before.",
+    /*5*/"Unipetude", "Dollar Bill", "Sweet Potato Pete", "The Army", "One Armed Mary",
+    /*10*/"A Little Slice of Everything", "Red Hot Mama", "Double View of the Cheese", "VeggieTaste", "Leafers",
+    /*15*/"The End of Things", "Pieces and Pieces", "Shoot Up the Hole", "Flit and Wiggle and Start Your Dancing", "What a Boy",
+    /*20*/"Birds of a Feather", "Big Eyes, Small Mouth", "Bigger, Bigger, Smarter, Better", "The Big Puff", "Dixie Lights",
+    /*25*/"Drive My Car", "The Chicken Is a Righteous Meal", "The Angel and the Baby", "Here I Go Again", "What a Long, Strange Trip It's Been (The Wilderness)",
+    /*30*/ "Nothing But a Man - featuring David Bowie", "Glue Your Loveliness to My Lungs - duet with Diamond Dave", "Tomorrow",
+    "Roundabout", "I'm a Soldier",
+    /*35*/"Got My Mind Set on You", "Don't Let's Start Over", "Spies", "From Nowhere", "Half-Light",
+    /*40*/"Have the Time of Your Life", "I Can See for Miles", "If I Tried", "I Can See Now", "The More You Know",
+    /*45*/"We Were Kings", "Baby, We're Free", "My Letter", "Enter Sandman", "Rockin' in the Free World",
+    /*50*/"Pass The Light", "Trouble Is My Friend", "Something", "Hand In Glove", "Boston Girls",
+    /*55*/"Let It Rock", "No Tears", "Is This It", "Long Black Veil", "Wooly Bully",
+    /*60*/"Here Comes The Sun", "Stay", "Chariots Of Fire", "Born To Run", "Take Me Out To The Ballgame",
+    /*65*/"Change Of Heart", "Ain't No Rest For The Wicked", "I Want The Power", "To Lay Me Down", "Here's to the Night",
+    /*70*/"Like A Stone", "I Want You Back", "The Mystic Kind", "Sad But True", "Bring Me The Horizon"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
