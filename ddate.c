@@ -112,23 +112,25 @@ char *day_long[5] = {
  * subset of the Internet.
  * This felt appropriate.
  */
-char *day_extended[72] = {
-    /*0*/"Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-    /*5*/"Unipetude", "Dollar Bill", "Sweet Potato Pete", "The Army", "One Armed Mary",
-    /*10*/"A Little Slice of Everything", "Red Hot Mama", "Double View of the Cheese", "VeggieTaste", "Leafers",
-    /*15*/"The End of Things", "Pieces and Pieces", "Shoot Up the Hole", "Flit and Wiggle and Start Your Dancing", "What a Boy",
-    /*20*/"Birds of a Feather", "Big Eyes, Small Mouth", "Bigger, Bigger, Smarter, Better", "The Big Puff", "Dixie Lights",
-    /*25*/"Drive My Car", "The Chicken Is a Righteous Meal", "The Angel and the Baby", "Here I Go Again", "What a Long, Strange Trip It's Been (The Wilderness)",
-    /*30*/ "Nothing But a Man - featuring David Bowie", "Glue Your Loveliness to My Lungs - duet with Diamond Dave", "Tomorrow",
-    "Roundabout", "I'm a Soldier",
-    /*35*/"Got My Mind Set on You", "Don't Let's Start Over", "Spies", "From Nowhere", "Half-Light",
-    /*40*/"Have the Time of Your Life", "I Can See for Miles", "If I Tried", "I Can See Now", "The More You Know",
-    /*45*/"We Were Kings", "Baby, We're Free", "My Letter", "Enter Sandman", "Rockin' in the Free World",
-    /*50*/"Pass The Light", "Trouble Is My Friend", "Something", "Hand In Glove", "Boston Girls",
-    /*55*/"Let It Rock", "No Tears", "Is This It", "Long Black Veil", "Wooly Bully",
-    /*60*/"Here Comes The Sun", "Stay", "Chariots Of Fire", "Born To Run", "Take Me Out To The Ballgame",
-    /*65*/"Change Of Heart", "Ain't No Rest For The Wicked", "I Want The Power", "To Lay Me Down", "Here's to the Night",
-    /*70*/"Like A Stone", "I Want You Back", "The Mystic Kind", "Sad But True", "Bring Me The Horizon"
+char *day_extended[73] = {
+    /*0*/"The Rooftop", "Solitary Man", "Change", "Jesus of Suburbia", "Bad Blood",
+    /*5*/"Evil Woman", "A Sharp Turn", "For You", "Just Add Water", "Talk Goes On",
+    /*10*/"Harlem Roulette", "All Night", "If It Ain't Ruff", "God is a DJ", "Sex-N-Stones",
+    /*15*/"Are You Gonna Be My Girl", "There She Goes Again", "Faces of Dust", "Awful Sound",
+    /*20*/"Lady Rain", "Psychedelic Sound Machine", "Things Are Looking Up", "Everybody Wants to Rule the World",
+      "I Miss You",
+    /*25*/"Will You Be There", "Everything That You Fear", "Pull Me Under", "Knives Out", "Ready For the Party",
+    /*30*/"Get Down", "Silent Night", "Duet", "Together Forever", "Most Beautiful Girl",
+    /*35*/"Home", "Where Were You", "For the Love of God", "Away", "Take My Hand",
+    /*40*/"Mixed Emotions", "I'm Gonna Take You Home", "Whole Lotta Love", "Crazy Rhythms", "Unforgettable",
+    /*45*/"Stay", "Lady Madonna", "For You", "From the Heart to You", "Janis",
+    /*50*/"Because the Night", "The Kids Don't Live Here Anymore", "The Way You Love Me",
+      "The Times They Are A-Changin'", "With or Without You",
+    /*55*/"Pink Eyes", "Daisies from Another Star", "Big Girls Don't Cry", "Christmastime", "Get On Your Boots",
+    /*60*/"Whisper", "All for You", "Dance (As a Street Drum)", "Mommy's Boy", "Say What You Want",
+    /*65*/"Awkward Again", "Rumours", "Somebody Loves You", "Don't Want You Back", "Good Times (I Don't Want to See You Anymore)",
+    /*70*/"Soho Raving", "Who Says", "What Would You Say", "Good Girl", "Rockin' Around the Christmas Tree",
+    /*75*/"We're Not Gonna Take It", "Something About You (Remix)"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
@@ -313,7 +315,7 @@ void format(char *buf, const char* fmt, struct disc_time dt)
 		case 'd': sprintf(snarf, "%d", dt.day+1); wibble=snarf; break;
 		case 'e': sprintf(snarf, "%d%s", dt.day+1, ending(dt.day+1)); 
 		    wibble=snarf; break;
-        case 'G': wibble=day_extended[dt.day]; break;
+		case 'G': wibble=day_extended[dt.day]; break;
 		case 'H': if(dt.day==4||dt.day==49)
 		    wibble=holyday[dt.season][dt.day==49]; break;
 		case 'N': if(dt.day!=4&&dt.day!=49) goto eschaton; break;
