@@ -111,26 +111,26 @@ char *day_long[5] = {
  * 1.5 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
  * subset of the Internet.
  * This felt appropriate.
+ * -- UPDATE: Since talktotransformer is sadly down, and gpt-3 is not yet available, I got someone
+ * on IRC to feed the daylist into AI Dungeon.
+ * That is why the current season is a bit more fantasy-themed than songlist-themed. :)
  */
 char *day_extended[73] = {
-    /*0*/"The Rooftop", "Solitary Man", "Change", "Jesus of Suburbia", "Bad Blood",
-    /*5*/"Evil Woman", "A Sharp Turn", "For You", "Just Add Water", "Talk Goes On",
-    /*10*/"Harlem Roulette", "All Night", "If It Ain't Ruff", "God is a DJ", "Sex-N-Stones",
-    /*15*/"Are You Gonna Be My Girl", "There She Goes Again", "Faces of Dust", "Awful Sound",
-    /*20*/"Lady Rain", "Psychedelic Sound Machine", "Things Are Looking Up", "Everybody Wants to Rule the World",
-      "I Miss You",
-    /*25*/"Will You Be There", "Everything That You Fear", "Pull Me Under", "Knives Out", "Ready For the Party",
-    /*30*/"Get Down", "Silent Night", "Duet", "Together Forever", "Most Beautiful Girl",
-    /*35*/"Home", "Where Were You", "For the Love of God", "Away", "Take My Hand",
-    /*40*/"Mixed Emotions", "I'm Gonna Take You Home", "Whole Lotta Love", "Crazy Rhythms", "Unforgettable",
-    /*45*/"Stay", "Lady Madonna", "For You", "From the Heart to You", "Janis",
-    /*50*/"Because the Night", "The Kids Don't Live Here Anymore", "The Way You Love Me",
-      "The Times They Are A-Changin'", "With or Without You",
-    /*55*/"Pink Eyes", "Daisies from Another Star", "Big Girls Don't Cry", "Christmastime", "Get On Your Boots",
-    /*60*/"Whisper", "All for You", "Dance (As a Street Drum)", "Mommy's Boy", "Say What You Want",
-    /*65*/"Awkward Again", "Rumours", "Somebody Loves You", "Don't Want You Back", "Good Times (I Don't Want to See You Anymore)",
-    /*70*/"Soho Raving", "Who Says", "What Would You Say", "Good Girl", "Rockin' Around the Christmas Tree",
-    /*75*/"We're Not Gonna Take It", "Something About You (Remix)"
+    /*0*/"Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+    /*5*/"Crepturn", "Doldrums", "Coolchange", "Whirldown", "Hotforge",
+    /*10*/"Lightdawn", "Firstflower", "Blusteryday", "Apple-Picking", "Bilberry-Bash",
+    /*15*/"ThunderSnow", "Sunshrine", "Fertileday", "Harvestmath", "Doorjam",
+    /*20*/"Shiftingbark", "Fullmoon", "Campfire", "Longlight", "Sugarapple",
+    /*25*/"Lastlight", "Dawnish", "Highnoon", "Sweetafternoon", "Duskshift",
+    /*30*/"Deadwater", "Moondark", "Sleepytimes", "Murkbottom", "Riptide",
+    /*35*/"Ebbtide", "Springwalk", "Farsun", "Longsummer", "Firebright",
+    /*40*/"Whitetide", "Shellsky", "Sunfall", "Scorchmonth", "Blackwave",
+    /*45*/"Frostfall", "Rainyseason", "Blossomonth", "Greenfruit", "Fallenday",
+    /*50*/"Deadseed", "Sleepygarden", "Dreamblessing", "Sweetnights", "Sleepybright",
+    /*55*/"Swingbell", "Dawnlight", "Hotflash", "Sweetdreams", "Blush Evening",
+    /*60*/"Moonlight", "Gloaming", "Peakhour", "Dusk", "Nigh",
+    /*65*/"Darknights", "Darkening", "Nearly Dark", "Almost Dusk", "More Dark",
+    /*70*/"Very Dark", "Super Dark", "Double Dark",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
