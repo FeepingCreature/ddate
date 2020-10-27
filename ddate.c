@@ -111,26 +111,31 @@ char *day_long[5] = {
  * 1.5 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
  * subset of the Internet.
  * This felt appropriate.
- * -- UPDATE: Since talktotransformer is sadly down, and gpt-3 is not yet available, I got someone
- * on IRC to feed the daylist into AI Dungeon.
- * That is why the current season is a bit more fantasy-themed than songlist-themed. :)
+ * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
+ * This season's run, the network seems to have iterated its way into thinking it's doing
+ * a 60's set list, featuring the Grateful Dead.
+ * I'm good with that.
  */
 char *day_extended[73] = {
-    /*0*/"Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-    /*5*/"Crepturn", "Doldrums", "Coolchange", "Whirldown", "Hotforge",
-    /*10*/"Lightdawn", "Firstflower", "Blusteryday", "Apple-Picking", "Bilberry-Bash",
-    /*15*/"ThunderSnow", "Sunshrine", "Fertileday", "Harvestmath", "Doorjam",
-    /*20*/"Shiftingbark", "Fullmoon", "Campfire", "Longlight", "Sugarapple",
-    /*25*/"Lastlight", "Dawnish", "Highnoon", "Sweetafternoon", "Duskshift",
-    /*30*/"Deadwater", "Moondark", "Sleepytimes", "Murkbottom", "Riptide",
-    /*35*/"Ebbtide", "Springwalk", "Farsun", "Longsummer", "Firebright",
-    /*40*/"Whitetide", "Shellsky", "Sunfall", "Scorchmonth", "Blackwave",
-    /*45*/"Frostfall", "Rainyseason", "Blossomonth", "Greenfruit", "Fallenday",
-    /*50*/"Deadseed", "Sleepygarden", "Dreamblessing", "Sweetnights", "Sleepybright",
-    /*55*/"Swingbell", "Dawnlight", "Hotflash", "Sweetdreams", "Blush Evening",
-    /*60*/"Moonlight", "Gloaming", "Peakhour", "Dusk", "Nigh",
-    /*65*/"Darknights", "Darkening", "Nearly Dark", "Almost Dusk", "More Dark",
-    /*70*/"Very Dark", "Super Dark", "Double Dark",
+  /*  5 */ "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+  /* 10 */ "Lonesome", "Deja Vu", "Let It Snow", "I'll Be There", "Jingle Bell Rock",
+  /* 15 */ "You've Got A Friend In Me", "The Power Of Love", "Folsom Prison Blues", "The Same Thing",
+    "One Too Many Mornings",
+  /* 20 */ "The Last Time", "Heart Of Gold", "The Race Is On", "The Night They Drove Old Dixie Down", "Crazy Fingers",
+  /* 25 */ "The Weight", "Ballad Of Hollis Brown", "Ain't No Mountain High Enough", "Brokedown Palace",
+    "Wildwood Flower",
+  /* 30 */ "Ragged Mountain Blues", "Big River", "What's Become Of The Baby", "Mr. Tambourine Man",
+    "China Cat Sunflower",
+  /* 35 */ "Estimated Prophet", "Terrapin Station", ".1 Bertha", ".2 Jack Straw", "New Mornin'",
+  /* 40 */ "Big River", "I Know You Rider", "The Race is On", "Playing In The Band", "Casey Jones",
+  /* 45 */ "Looks Like Rain", "Terraphile", "Jack Straw", "China Cat", "Morning Dew",
+  /* 50 */ "Big Railroad Blues", "I've Been All Around This World", "Out Of This World", "Good Lovin'",
+    "Super Magnolia",
+  /* 55 */ "Bertha", "Uncle John's Band", "Drums", "Space", "Sugar Magnolias",
+  /* 60 */ "Wharf Rat", "The Wheel", "Eyes Of The World", "St. Stephen", "Goin' Down The Road Feelin' Bad",
+  /* 65 */ "Johnny B. Goode", "He's Gone", "Loose Lucy", "Bird Song", "Not Fade Away",
+  /* 70 */ "Dancing In The Street", "Row Jimmy", "It's All Over Now Baby Blue", "Ramble On Rose", "Brown Eyed Women",
+  /* 75 */ "Help On The Way", "Me And Bobby McGee", "Around And Around",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
