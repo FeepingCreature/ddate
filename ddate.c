@@ -112,30 +112,44 @@ char *day_long[5] = {
  * subset of the Internet.
  * This felt appropriate.
  * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
- * This season's run, the network seems to have iterated its way into thinking it's doing
- * a 60's set list, featuring the Grateful Dead.
- * I'm good with that.
+ * This season, GPT-2 literally gave me all the day names in a list, on its own, breaking the
+ * format I gave it, beginning with "The full list of Discordian Days of the Year is:",
+ * and properly enumerating. I can take a hint, Goddess. Taken unmodified.
  */
 char *day_extended[73] = {
-  /*  5 */ "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  /* 10 */ "Lonesome", "Deja Vu", "Let It Snow", "I'll Be There", "Jingle Bell Rock",
-  /* 15 */ "You've Got A Friend In Me", "The Power Of Love", "Folsom Prison Blues", "The Same Thing",
-    "One Too Many Mornings",
-  /* 20 */ "The Last Time", "Heart Of Gold", "The Race Is On", "The Night They Drove Old Dixie Down", "Crazy Fingers",
-  /* 25 */ "The Weight", "Ballad Of Hollis Brown", "Ain't No Mountain High Enough", "Brokedown Palace",
-    "Wildwood Flower",
-  /* 30 */ "Ragged Mountain Blues", "Big River", "What's Become Of The Baby", "Mr. Tambourine Man",
-    "China Cat Sunflower",
-  /* 35 */ "Estimated Prophet", "Terrapin Station", ".1 Bertha", ".2 Jack Straw", "New Mornin'",
-  /* 40 */ "Big River", "I Know You Rider", "The Race is On", "Playing In The Band", "Casey Jones",
-  /* 45 */ "Looks Like Rain", "Terraphile", "Jack Straw", "China Cat", "Morning Dew",
-  /* 50 */ "Big Railroad Blues", "I've Been All Around This World", "Out Of This World", "Good Lovin'",
-    "Super Magnolia",
-  /* 55 */ "Bertha", "Uncle John's Band", "Drums", "Space", "Sugar Magnolias",
-  /* 60 */ "Wharf Rat", "The Wheel", "Eyes Of The World", "St. Stephen", "Goin' Down The Road Feelin' Bad",
-  /* 65 */ "Johnny B. Goode", "He's Gone", "Loose Lucy", "Bird Song", "Not Fade Away",
-  /* 70 */ "Dancing In The Street", "Row Jimmy", "It's All Over Now Baby Blue", "Ramble On Rose", "Brown Eyed Women",
-  /* 75 */ "Help On The Way", "Me And Bobby McGee", "Around And Around",
+  /* 0 */
+  "Christmas Eve (celebrated in the US as \"Merry Christmas\"",
+  "Halloween (celebrates the night before the holiday, which is celebrated in the same way as Christmas Eve)",
+  "New Year (celebrate the day before the birthday, which also celebrates the day after the birthday)",
+  "St. Patricks Day (celebration of the day that the saint is born)",
+  "St Patrick's day (celebs the day the saint was born)",
+  /* 5 */
+  "Easter (celebes the day of the resurrection)",
+  "Pilgrims Day (a celebration of the Pilgrimages of the early Church)",
+  "St George's Day",
+  "Easter Sunday (celebinates the day when Jesus was crucified)",
+  "Pilgram's Day",
+  /* 10 */ "St Andrew's Day", "St Nicholas Day", "St Matthew's Day", "St Paul's Day", "St James' Day",
+  /* 15 */ "St John's Day", "St Jude's Day", "St Thomas' Day", "St Michael's Day", "St Margaret's Day",
+  /* 20 */ "St Simon's Day", "St Philip's Day", "St Joseph's Day", "St Bartholomew's Day", "St Martin's Day",
+  /* 25 */ "St Stephen's Day", "St Luke's Day", "St Simeon's Day", "St Ignatius's Day", "St Cyprian's Day",
+  /* 30 */ "St Francis Day", "St Dominic's Day", "St Augustine's Day", "St Catherine's Day", "St Chrysostom's Day",
+  /* 35 */ "St Jerome's Day", "St Peter's Day", "St Mary Magdalen's Day", "St Matthias' Day", "St Maximilian's Day",
+  /* 40 */ "St Timothy's Day", "St Basil's Day" "St Ambrose's Day", "St Irenaeus' Day", "St Theophilus' Day",
+  /* 45 */ "St Ephrem's Day", "St Athanasius' Day", "St Gregory the Great's Day", "St Julian of Norwich's Day", "St Benedict's Day",
+  /* 50 */ "St Bernard's Day", "St Hilary of Poitiers' Day", "St Lawrence's Day", "St Cuthbert's Day", "St Bonaventure's Day",
+  /* 55 */ "St Theodore's Day", "St Vincent de Paul's day", "St Anselm's Day", "St Leo's Day", "St Louis de Montfort's Day",
+  /* 60 */ "St Charles Borromeo's Day", "St Edmund's Day", "St Alexander's Day", "St Edward's Day", "St Alphonsus' Day",
+  // man, discordianism sure has a lot of saints
+  /* 65 */ "St Denis' Day", "St Aloysius' day", "St Evagrius' Day", "St Agnes Day", "St Anthony of Padua's Day",
+  /* 70 */ "St Barnabas Day", "St Bridget's Day", "St Cecilia Day"
+  // and then the network continued:
+  /**
+   * 74. St Elizabeth of Hungary's Day 75. St Jovinian's Day 76. St Januarius' Day
+   * 77. St Hugh of Lincoln's Day 78. St Judas of the Cross' Day 79. St Liguori's Day 80. St Mark's Day
+   * 81. St Maarten's Day 82. St Mathias' day 83. St Martial's Day 84. St Mihiel's Day 85. St Nectarius' day
+   * 86. St Nathaniel's Day 87. St Titus' Day 88. St Thérèse of Lisieux
+   */
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
