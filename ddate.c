@@ -112,44 +112,37 @@ char *day_long[5] = {
  * subset of the Internet.
  * This felt appropriate.
  * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
- * This season, GPT-2 literally gave me all the day names in a list, on its own, breaking the
- * format I gave it, beginning with "The full list of Discordian Days of the Year is:",
- * and properly enumerating. I can take a hint, Goddess. Taken unmodified.
+ * A new season! I changed the seed string that generates the names. I feel the network should be
+ * better at working out that I want day names. This time, it went on a single-word bender.
+ * Alternate name: Wildbow Chapter Title Generator.
  */
 char *day_extended[73] = {
   /* 0 */
-  "Christmas Eve (celebrated in the US as \"Merry Christmas\"",
-  "Halloween (celebrates the night before the holiday, which is celebrated in the same way as Christmas Eve)",
-  "New Year (celebrate the day before the birthday, which also celebrates the day after the birthday)",
-  "St. Patricks Day (celebration of the day that the saint is born)",
-  "St Patrick's day (celebs the day the saint was born)",
-  /* 5 */
-  "Easter (celebes the day of the resurrection)",
-  "Pilgrims Day (a celebration of the Pilgrimages of the early Church)",
-  "St George's Day",
-  "Easter Sunday (celebinates the day when Jesus was crucified)",
-  "Pilgram's Day",
-  /* 10 */ "St Andrew's Day", "St Nicholas Day", "St Matthew's Day", "St Paul's Day", "St James' Day",
-  /* 15 */ "St John's Day", "St Jude's Day", "St Thomas' Day", "St Michael's Day", "St Margaret's Day",
-  /* 20 */ "St Simon's Day", "St Philip's Day", "St Joseph's Day", "St Bartholomew's Day", "St Martin's Day",
-  /* 25 */ "St Stephen's Day", "St Luke's Day", "St Simeon's Day", "St Ignatius's Day", "St Cyprian's Day",
-  /* 30 */ "St Francis Day", "St Dominic's Day", "St Augustine's Day", "St Catherine's Day", "St Chrysostom's Day",
-  /* 35 */ "St Jerome's Day", "St Peter's Day", "St Mary Magdalen's Day", "St Matthias' Day", "St Maximilian's Day",
-  /* 40 */ "St Timothy's Day", "St Basil's Day" "St Ambrose's Day", "St Irenaeus' Day", "St Theophilus' Day",
-  /* 45 */ "St Ephrem's Day", "St Athanasius' Day", "St Gregory the Great's Day", "St Julian of Norwich's Day", "St Benedict's Day",
-  /* 50 */ "St Bernard's Day", "St Hilary of Poitiers' Day", "St Lawrence's Day", "St Cuthbert's Day", "St Bonaventure's Day",
-  /* 55 */ "St Theodore's Day", "St Vincent de Paul's day", "St Anselm's Day", "St Leo's Day", "St Louis de Montfort's Day",
-  /* 60 */ "St Charles Borromeo's Day", "St Edmund's Day", "St Alexander's Day", "St Edward's Day", "St Alphonsus' Day",
-  // man, discordianism sure has a lot of saints
-  /* 65 */ "St Denis' Day", "St Aloysius' day", "St Evagrius' Day", "St Agnes Day", "St Anthony of Padua's Day",
-  /* 70 */ "St Barnabas Day", "St Bridget's Day", "St Cecilia Day"
-  // and then the network continued:
-  /**
-   * 74. St Elizabeth of Hungary's Day 75. St Jovinian's Day 76. St Januarius' Day
-   * 77. St Hugh of Lincoln's Day 78. St Judas of the Cross' Day 79. St Liguori's Day 80. St Mark's Day
-   * 81. St Maarten's Day 82. St Mathias' day 83. St Martial's Day 84. St Mihiel's Day 85. St Nectarius' day
-   * 86. St Nathaniel's Day 87. St Titus' Day 88. St Thérèse of Lisieux
-   */
+  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+  "Rising Overset", "Gloom", "Doom", "Hoof-Fury", "The Mighty Dew",
+  /* 10 */
+  "Sheer Rage", "Anger", "Fear", "Stiff", "Sticky",
+  "Slippery", "Tickle-Tickle", "Tickling", "Shriek", "Clutch",
+  /* 20 */
+  "Sneeze", "Booze", "Dizzy", "Mellow", "Idle",
+  "Cackling", "Flapping", "Fidgeting", "Snoring", "Dreaming",
+  /* 30 */
+  "Thule", "Snowy-Hoo", "Cramp", "Thaw", "Freeze",
+  "Woe", "Fury", "Death", "Delight", "Rage",
+  /* 40 */
+  "Whistle", "Scream", "Silence", "Screech", "Spite",
+  "Flame", "Frustration", "Ruckus", "Hiccup", "Squeal",
+  /* 50 */
+  "Bleat", "Yell", "Grumble", "Groan", "Cheer",
+  "Bawl", "Smack", "Chatter", "Cry", "Bark",
+  /* 60 */
+  "Growl", "Gasp", "Thud", "Tingle", "Woof",
+  "Kong", "Shoot", "Breeze", "Clap", "Quack",
+  /* 70 */
+  "Moo", "Scratch", "Rattle", "Cheer", "Nibble",
+  "Paw", "Squeak", "Snarl", "Cackle", "Hiss",
+  /* 80 */
+  "Roar", "Yelp", "Dizz", "Ugh", "Chatter", "Vocalize", "Growl",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
