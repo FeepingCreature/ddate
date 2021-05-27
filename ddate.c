@@ -112,37 +112,39 @@ char *day_long[5] = {
  * subset of the Internet.
  * This felt appropriate.
  * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
- * A new season! I changed the seed string that generates the names. I feel the network should be
- * better at working out that I want day names. This time, it went on a single-word bender.
- * Alternate name: Wildbow Chapter Title Generator.
+ * Update: I HOPE YOU LIKE FOOD.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Rising Overset", "Gloom", "Doom", "Hoof-Fury", "The Mighty Dew",
+  /* 5 */
+  "Peppery-Peppery", "Daffy-Daffy", "Sweetmourn", "Quince", "Booby",
   /* 10 */
-  "Sheer Rage", "Anger", "Fear", "Stiff", "Sticky",
-  "Slippery", "Tickle-Tickle", "Tickling", "Shriek", "Clutch",
+  "Popcorn", "Mango", "Blueberry", "Spice", "The Afternoon",
+  /* 15 */
+  "Corn-Mango", "Sweetheart", "Thump", "Bump", "Scruff",
   /* 20 */
-  "Sneeze", "Booze", "Dizzy", "Mellow", "Idle",
-  "Cackling", "Flapping", "Fidgeting", "Snoring", "Dreaming",
+  "Screech", "Crackle", "Hotch-Hotch", "Pumpkin", "Sunflower",
+  /* 25 */
+  "Wintergreen", "Mint-Mint", "Cherry-Menthol", "Peppermint", "Lemon-Meringue",
   /* 30 */
-  "Thule", "Snowy-Hoo", "Cramp", "Thaw", "Freeze",
-  "Woe", "Fury", "Death", "Delight", "Rage",
+  "Papaya-Peppermint", "Cucumber-Lemon", "Almond-Lime", "Banana-Limes", "Orange-Lemons",
+  /* 35 */
+  "Passionfruit-Lilacs", "Grape-Grape", "Strawberry-Grapes", "Red-Raspberry", "Blackberry-Raspberries",
   /* 40 */
-  "Whistle", "Scream", "Silence", "Screech", "Spite",
-  "Flame", "Frustration", "Ruckus", "Hiccup", "Squeal",
+  "Cranberry-Strawberries", "Peach-Raisins", "Green-Rice-Rices", "Apricot-Risps", "Coconut-Rye-Rums",
+  /* 45 */
+  "Apple-Rasps", "Pear-Rees", "Kiwi-Ribs", "Nectarine-Papaya-Pistachios", "Mangosteen-Sours",
   /* 50 */
-  "Bleat", "Yell", "Grumble", "Groan", "Cheer",
-  "Bawl", "Smack", "Chatter", "Cry", "Bark",
+  "Guava-Mangos", "Pineapple-Coconut-Pears", "Watermelon-Cherries", "Lime-Mushrooms", "Tomato-Tomatoes",
   /* 60 */
-  "Growl", "Gasp", "Thud", "Tingle", "Woof",
-  "Kong", "Shoot", "Breeze", "Clap", "Quack",
+  "Eggplant-Pineapple-Avocados", "Garlic-Beans-Peppers", "Onion-Sauces", "Celery-Parsley-Spinach", "Dill-Cucumber",
+  /* 65 */
+  "Ginger-Cayenne-Cilantro", "Mustard-Mustard", "Salt-Salt", "Olive Oil-Olive Oil", "Sesame Oil-Sesame Oil",
   /* 70 */
-  "Moo", "Scratch", "Rattle", "Cheer", "Nibble",
-  "Paw", "Squeak", "Snarl", "Cackle", "Hiss",
-  /* 80 */
-  "Roar", "Yelp", "Dizz", "Ugh", "Chatter", "Vocalize", "Growl",
+  "Chili-Chili", "Oil-Oil", "Butter-Butter", "Eggs-Eggs", "Sugar-Candy",
+  /* 75 */
+  "Glue-Glue", "Wiggly 1-Wiggly 2", "Pungent 1-Peppy 2",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
