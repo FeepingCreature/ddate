@@ -118,33 +118,33 @@ char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Peppery-Peppery", "Daffy-Daffy", "Sweetmourn", "Quince", "Booby",
+  "Boiling Over", "Snail Days", "Winter Solstice", "Banned Days", "Spring Fever",
   /* 10 */
-  "Popcorn", "Mango", "Blueberry", "Spice", "The Afternoon",
+  "Summer Fever", "Cooling Off", "Thawing Up", "Flaming Hot", "Hot and Cold",
   /* 15 */
-  "Corn-Mango", "Sweetheart", "Thump", "Bump", "Scruff",
+  "Raining", "Withering", "Falling", "Rising", "Climbing Up",
   /* 20 */
-  "Screech", "Crackle", "Hotch-Hotch", "Pumpkin", "Sunflower",
+  "Drying Up", "Raising Up", "Glowing Up", "Burning Up", "Cracking Up",
   /* 25 */
-  "Wintergreen", "Mint-Mint", "Cherry-Menthol", "Peppermint", "Lemon-Meringue",
+  "The Aftermarch", "The Afterburn", "The Before Burn", "The Rebound", "The Awakening",
   /* 30 */
-  "Papaya-Peppermint", "Cucumber-Lemon", "Almond-Lime", "Banana-Limes", "Orange-Lemons",
+  "The Vigor", "The Burning", "The End", "The Rebirth", "The Cleansing",
   /* 35 */
-  "Passionfruit-Lilacs", "Grape-Grape", "Strawberry-Grapes", "Red-Raspberry", "Blackberry-Raspberries",
+  "The Dividing", "Heavens' Gate", "The Climb", "The Ladder", "The Tower",
   /* 40 */
-  "Cranberry-Strawberries", "Peach-Raisins", "Green-Rice-Rices", "Apricot-Risps", "Coconut-Rye-Rums",
+  "In The Wild", "In The Dark", "In the Deep", "In Between", "In between the Waves",
   /* 45 */
-  "Apple-Rasps", "Pear-Rees", "Kiwi-Ribs", "Nectarine-Papaya-Pistachios", "Mangosteen-Sours",
+  "In a Dream", "In reality", "In Dreamland", "Last Light", "Last Light Burning",
   /* 50 */
-  "Guava-Mangos", "Pineapple-Coconut-Pears", "Watermelon-Cherries", "Lime-Mushrooms", "Tomato-Tomatoes",
+  "Last Flame", "Last Night", "Last Morning", "Last Thing", "Last Time",
   /* 60 */
-  "Eggplant-Pineapple-Avocados", "Garlic-Beans-Peppers", "Onion-Sauces", "Celery-Parsley-Spinach", "Dill-Cucumber",
+  "Last Moment", "Last Hour", "Last Breath", "Last Dance", "Last Day",
   /* 65 */
-  "Ginger-Cayenne-Cilantro", "Mustard-Mustard", "Salt-Salt", "Olive Oil-Olive Oil", "Sesame Oil-Sesame Oil",
+  "Last Farewell", "Last Hope", "Last Come Down", "Last Close", "Last Convo",
   /* 70 */
-  "Chili-Chili", "Oil-Oil", "Butter-Butter", "Eggs-Eggs", "Sugar-Candy",
+  "Last Call", "Last Conversation", "Last Meeting", "Last Memory", "Last Journey",
   /* 75 */
-  "Glue-Glue", "Wiggly 1-Wiggly 2", "Pungent 1-Peppy 2",
+  "Last Turn", "Last Wake", "Last Wish", "Last Wind", "Last Year",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
