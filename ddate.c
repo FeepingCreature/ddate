@@ -112,39 +112,39 @@ char *day_long[5] = {
  * subset of the Internet.
  * This felt appropriate.
  * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
- * Update: I HOPE YOU LIKE FOOD.
+ * Update: Winter is coming, apparently?
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Boiling Over", "Snail Days", "Winter Solstice", "Banned Days", "Spring Fever",
+  "Cornucopia", "Hibernation", "Blubbering", "Bloop", "Moonrise",
   /* 10 */
-  "Summer Fever", "Cooling Off", "Thawing Up", "Flaming Hot", "Hot and Cold",
+  "Moonfall", "Snake-Eyes", "Dazzling", "Autumn", "Fall",
   /* 15 */
-  "Raining", "Withering", "Falling", "Rising", "Climbing Up",
+  "Fluffy-Puff", "Fluff-Fuzz", "Bitter", "Sweet", "Peculiar",
   /* 20 */
-  "Drying Up", "Raising Up", "Glowing Up", "Burning Up", "Cracking Up",
+  "Flaky", "Rushing", "Embers", "Flash", "Snowfall",
   /* 25 */
-  "The Aftermarch", "The Afterburn", "The Before Burn", "The Rebound", "The Awakening",
+  "Frostbite", "Winter", "Winter-Night", "Snowstorm", "Blunder",
   /* 30 */
-  "The Vigor", "The Burning", "The End", "The Rebirth", "The Cleansing",
+  "Blob", "Blot", "Blustery", "Snowstorm-Blizzard", "Storm",
   /* 35 */
-  "The Dividing", "Heavens' Gate", "The Climb", "The Ladder", "The Tower",
+  "Snow", "Thunderstorm", "Snow-Frost", "Torrential", "Arctic",
   /* 40 */
-  "In The Wild", "In The Dark", "In the Deep", "In Between", "In between the Waves",
+  "Blizzard", "Eerie", "Winter-Wintry", "Ice-Ice-Ice", "Frozen",
   /* 45 */
-  "In a Dream", "In reality", "In Dreamland", "Last Light", "Last Light Burning",
+  "Slushy", "Chill", "Cold", "COLD", "Ice",
   /* 50 */
-  "Last Flame", "Last Night", "Last Morning", "Last Thing", "Last Time",
+  "Freeze", "Frost", "Snowy", "Frozen", "Snowstorm Storm",
   /* 60 */
-  "Last Moment", "Last Hour", "Last Breath", "Last Dance", "Last Day",
+  "Blob-Blot", "Sludge", "Wintry-Cold", "Frozen-Frozen", "Snowpocalypse",
   /* 65 */
-  "Last Farewell", "Last Hope", "Last Come Down", "Last Close", "Last Convo",
+  "Frostbite-Iceberg", "Bloob-Sludge-Slushy-Blob", "Snow-Skewed",
   /* 70 */
-  "Last Call", "Last Conversation", "Last Meeting", "Last Memory", "Last Journey",
+  "Iceberg-Icepocalypse-Froze-Blowout", "Slush-Bloob",
+  "Slob-Bubbles-Bombs", "Frost-Frog-Frigid",
   /* 75 */
-  "Last Turn", "Last Wake", "Last Wish", "Last Wind", "Last Year",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
