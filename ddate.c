@@ -118,33 +118,28 @@ char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Cornucopia", "Hibernation", "Blubbering", "Bloop", "Moonrise",
+  "Chilly", "Sweat", "Snot", "Muddy", "Prickly",
   /* 10 */
-  "Moonfall", "Snake-Eyes", "Dazzling", "Autumn", "Fall",
-  /* 15 */
-  "Fluffy-Puff", "Fluff-Fuzz", "Bitter", "Sweet", "Peculiar",
+  "Icy", "Hibernate", "Scaly", "Foul", "Slippery",
+  "Tingling", "Damp", "Tumble", "Mud", "Snow",
   /* 20 */
-  "Flaky", "Rushing", "Embers", "Flash", "Snowfall",
-  /* 25 */
-  "Frostbite", "Winter", "Winter-Night", "Snowstorm", "Blunder",
+  "Fumes", "Sizzle", "Sticky", "Sizzling", "Brittle",
+  "Cold", "Mellow", "Slush", "Moist", "Stiff",
   /* 30 */
-  "Blob", "Blot", "Blustery", "Snowstorm-Blizzard", "Storm",
-  /* 35 */
-  "Snow", "Thunderstorm", "Snow-Frost", "Torrential", "Arctic",
+  "Puddle", "Chilly-Wet", "Puff", "Puking", "Shivering",
+  "Nauseous", "Hot", "Squeaky", "Squishy", "Crunchy",
   /* 40 */
-  "Blizzard", "Eerie", "Winter-Wintry", "Ice-Ice-Ice", "Frozen",
-  /* 45 */
-  "Slushy", "Chill", "Cold", "COLD", "Ice",
+  "Squeak", "Hiss", "Chug", "Smell", "Leaky",
+  "Stinky", "Suck", "Soggy", "Sludge", "Puke",
   /* 50 */
-  "Freeze", "Frost", "Snowy", "Frozen", "Snowstorm Storm",
+  "Amorous", "Naughty", "Stinky-Sick", "Sassy", "Sweet",
+  "Warm", "Nasty-Suck", "Nudge", "Sodden", "Sordid", "Tasty",
   /* 60 */
-  "Blob-Blot", "Sludge", "Wintry-Cold", "Frozen-Frozen", "Snowpocalypse",
-  /* 65 */
-  "Frostbite-Iceberg", "Bloob-Sludge-Slushy-Blob", "Snow-Skewed",
+  "Dry", "Sunken", "Pummeled", "Silly", "Sooty",
+  "Sluggish", "Sloppy", "Smelly", "Stink", "Sorrowful",
   /* 70 */
-  "Iceberg-Icepocalypse-Froze-Blowout", "Slush-Bloob",
-  "Slob-Bubbles-Bombs", "Frost-Frog-Frigid",
-  /* 75 */
+  "Cold", "Cold", "Sink", "Sick", "Sneeze",
+  "Cold-Sunk", "Cold-Stink", "Coldish", "Coldest", "Coldiest",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
