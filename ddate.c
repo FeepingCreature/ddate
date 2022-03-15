@@ -112,34 +112,34 @@ char *day_long[5] = {
  * subset of the Internet.
  * This felt appropriate.
  * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
- * Update: Winter is coming, apparently?
+ * Update: Slightly adjusted the generated names. Once GPT-2 falls into a repetetive pattern, neither
+ * hell nor high water can divert it. In this case, it just repeated every word twice.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Chilly", "Sweat", "Snot", "Muddy", "Prickly",
+  "Dizzying", "Shrinking", "Sprinkling", "Leaving", "Stale",
   /* 10 */
-  "Icy", "Hibernate", "Scaly", "Foul", "Slippery",
-  "Tingling", "Damp", "Tumble", "Mud", "Snow",
+  "Twinkling-Twinkly", "Flickering", "Aching", "Withering", "Running",
+  "Falling", "Alarming", "Tranquil", "Stinging", "Dizziness-Dizzy",
   /* 20 */
-  "Fumes", "Sizzle", "Sticky", "Sizzling", "Brittle",
-  "Cold", "Mellow", "Slush", "Moist", "Stiff",
+  "Frightening", "Waning", "Snapping", "Picking", "Sticking",
+  "Getting", "Bending", "Dashing", "Snoring", "Sore",
   /* 30 */
-  "Puddle", "Chilly-Wet", "Puff", "Puking", "Shivering",
-  "Nauseous", "Hot", "Squeaky", "Squishy", "Crunchy",
+  "Blistering", "Sudden", "Stumbling", "Sinking", "Squeaking",
+  "Stiff", "Whirring", "Tiring", "Stinky", "Chattering",
   /* 40 */
-  "Squeak", "Hiss", "Chug", "Smell", "Leaky",
-  "Stinky", "Suck", "Soggy", "Sludge", "Puke",
+  "Inky", "Dark", "Bouncing", "Pounding", "Stinking",
+  "Gurgling", "Sizzling", "Whirling", "Gasping", "Sticky",
   /* 50 */
-  "Amorous", "Naughty", "Stinky-Sick", "Sassy", "Sweet",
-  "Warm", "Nasty-Suck", "Nudge", "Sodden", "Sordid", "Tasty",
+  "Bumping", "Squirming", "Shrieking", "Flapping-Shaking", "Hissing",
+  "Shuffling", "Chortling", "Babbling", "Dung", "Swinging",
   /* 60 */
-  "Dry", "Sunken", "Pummeled", "Silly", "Sooty",
-  "Sluggish", "Sloppy", "Smelly", "Stink", "Sorrowful",
+  "Flicking", "Sucking", "Sneeze", "Breathing", "Stretching",
+  "Crashing", "Cranking", "Crumpling", "Sighing", "Inhaling",
   /* 70 */
-  "Cold", "Cold", "Sink", "Sick", "Sneeze",
-  "Cold-Sunk", "Cold-Stink", "Coldish", "Coldest", "Coldiest",
+  "Snuffling", "Napping", "Sleep"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
