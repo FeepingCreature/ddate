@@ -119,27 +119,27 @@ char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Dizzying", "Shrinking", "Sprinkling", "Leaving", "Stale",
+  "Sunken", "Miserable", "Tear-Drop", "Tumble-Tumble", "Thud-Thud",
   /* 10 */
-  "Twinkling-Twinkly", "Flickering", "Aching", "Withering", "Running",
-  "Falling", "Alarming", "Tranquil", "Stinging", "Dizziness-Dizzy",
+  "Fuzzy", "Muddy", "Booger", "Wormy", "Thump",
+  "Giddy", "Wiggly", "Wriggle", "Thumb-Thumb", "Snort-Snort",
   /* 20 */
-  "Frightening", "Waning", "Snapping", "Picking", "Sticking",
-  "Getting", "Bending", "Dashing", "Snoring", "Sore",
+  "Boob", "Farty", "Fuzz", "Fizz", "Fizzle", "Giggle",
+  "Naughty", "Naughty-Naughty", "Snappy", "Sneeze", "Suck-Suck",
   /* 30 */
-  "Blistering", "Sudden", "Stumbling", "Sinking", "Squeaking",
-  "Stiff", "Whirring", "Tiring", "Stinky", "Chattering",
+  "Dizzy", "Fizzy", "Sassy", "Swish", "Squeak",
+  "Snore", "Bloop", "Bloop-Bloop", "Boob-Boom", "Boosie",
   /* 40 */
-  "Inky", "Dark", "Bouncing", "Pounding", "Stinking",
-  "Gurgling", "Sizzling", "Whirling", "Gasping", "Sticky",
+  "Cool-Cool", "Coolin'", "Coolin' Quicks", "Cooling Quicks", "Cuzzy-Cuzzy",
+  "Chilly", "Chilly-Chilly", "Chill", "Chillin'", "Chillin' Cool",
   /* 50 */
-  "Bumping", "Squirming", "Shrieking", "Flapping-Shaking", "Hissing",
-  "Shuffling", "Chortling", "Babbling", "Dung", "Swinging",
+  "Chillin'", "Chilly Baked", "Baked-Baked", "Booby", "Boober",
+  "Booober", "Bop-Bop", "Bopsie", "Boper", "Bump",
   /* 60 */
-  "Flicking", "Sucking", "Sneeze", "Breathing", "Stretching",
-  "Crashing", "Cranking", "Crumpling", "Sighing", "Inhaling",
+  "Bumpsie", "Chomp", "Chompsie", "Chop", "Chop-Chop",
+  "Boobie", "Bubbles", "Bubblebunny", "Bubblegum", "Buble",
   /* 70 */
-  "Snuffling", "Napping", "Sleep"
+  "Bublet", "Bubly", "Bubs",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
