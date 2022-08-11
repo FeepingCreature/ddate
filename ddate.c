@@ -119,27 +119,33 @@ char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Sunken", "Miserable", "Tear-Drop", "Tumble-Tumble", "Thud-Thud",
+  "Thunder and Moltenbright", "Riding the Jagged Storm", "Wrathday", "a day with limited sunlight", "Acid Glass",
   /* 10 */
-  "Fuzzy", "Muddy", "Booger", "Wormy", "Thump",
-  "Giddy", "Wiggly", "Wriggle", "Thumb-Thumb", "Snort-Snort",
+  "Mending the Broken", "Throbbing With Heaves", "Hair-Cutting", "Removing Cloth Veil", "Magnificent Plucking",
+  /* 15 */
+  "Strenuous Meeting of Muses", "Heated Up Jars", "Nonworking Days", "Removing Hooves", "Sunbeams",
   /* 20 */
-  "Boob", "Farty", "Fuzz", "Fizz", "Fizzle", "Giggle",
-  "Naughty", "Naughty-Naughty", "Snappy", "Sneeze", "Suck-Suck",
+  "Labor Hard", "Pivotal Quarrel", "Crusty", "Humble Smiles", "The Installing of Manners",
+  /* 25 */
+  "Punching Without Blood", "Sticky and Crowded", "Spouting Insults", "Saucer-Shaped Pint", "Carrying Pounds",
   /* 30 */
-  "Dizzy", "Fizzy", "Sassy", "Swish", "Squeak",
-  "Snore", "Bloop", "Bloop-Bloop", "Boob-Boom", "Boosie",
+  "Surfing on a Feeling", "Squeaky Wheel", "Aviating the Waters", "Path Breaking Traversing", "Wet Underwear",
+  /* 35 */
+  "Wild Serenading of Manure", "Rambling Down Tracks", "Losing Momentum", "Emotionally Distant", "Promoting Social Frustration",
   /* 40 */
-  "Cool-Cool", "Coolin'", "Coolin' Quicks", "Cooling Quicks", "Cuzzy-Cuzzy",
-  "Chilly", "Chilly-Chilly", "Chill", "Chillin'", "Chillin' Cool",
+  "Mixed Up Roving", "Interdimensional Voyaging", "Offensive Exchanges", "Filching Colours", "Orchids",
+  /* 45 */
+  "Smashing Into Loose Layers", "Embarrassing Outbursts", "Sand Sharks", "Ghosts in the Roaring Night", "Bittersweet",
   /* 50 */
-  "Chillin'", "Chilly Baked", "Baked-Baked", "Booby", "Boober",
-  "Booober", "Bop-Bop", "Bopsie", "Boper", "Bump",
+  "Litigating", "Generously Sharing Emotions", "Litigating Morals", "Repeating the Past", "Plugging a Hole",
+  /* 55 */
+  "“We’re Not Finished Yet”", "Succession of Battles", "Last to the Draw", "Milling Around", "Too Much High Spirits",
   /* 60 */
-  "Bumpsie", "Chomp", "Chompsie", "Chop", "Chop-Chop",
-  "Boobie", "Bubbles", "Bubblebunny", "Bubblegum", "Buble",
+  "Storming into the Threshold", "Casualizing Cringing", "Word Clouds", "Internment", "Pickup Lines",
+  /* 65 */
+  "The Walking Down the Middle of the Road", "Crouching in the Hallway", "Waiting to Explode", "Unbounded Sentiments", "Hungry for the Positive",
   /* 70 */
-  "Bublet", "Bubly", "Bubs",
+  "Sharing the Hard Truth", "Subversive Terror", "Tragically Passing Time",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
