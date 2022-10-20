@@ -119,33 +119,33 @@ char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Thunder and Moltenbright", "Riding the Jagged Storm", "Wrathday", "a day with limited sunlight", "Acid Glass",
+  "Bloomingfull", "Gallaudet", "Taglestick", "Frogleg",
   /* 10 */
-  "Mending the Broken", "Throbbing With Heaves", "Hair-Cutting", "Removing Cloth Veil", "Magnificent Plucking",
+  "Larbustoff", "Fieldfast", "Wormtime", "Boomerang", "Stringball",
   /* 15 */
-  "Strenuous Meeting of Muses", "Heated Up Jars", "Nonworking Days", "Removing Hooves", "Sunbeams",
+  "Enturblate", "Plasticovall", "Farty", "Asperblock", "Tisatort",
   /* 20 */
-  "Labor Hard", "Pivotal Quarrel", "Crusty", "Humble Smiles", "The Installing of Manners",
+  "Plantshow", "Bean-Root", "Flower Power", "Pastafilter", "Weedenore",
   /* 25 */
-  "Punching Without Blood", "Sticky and Crowded", "Spouting Insults", "Saucer-Shaped Pint", "Carrying Pounds",
+  "Rabbedthort", "Bespitkel", "Sheepturd", "Dindings", "Yoldev",
   /* 30 */
-  "Surfing on a Feeling", "Squeaky Wheel", "Aviating the Waters", "Path Breaking Traversing", "Wet Underwear",
+  "Jitterpurr", "Splatkinthort", "Indistinguishation", "Mandikin", "Jendan",
   /* 35 */
-  "Wild Serenading of Manure", "Rambling Down Tracks", "Losing Momentum", "Emotionally Distant", "Promoting Social Frustration",
+  "Un-Blind", "Farmerfork", "Oogly", "Waterlong", "Namek",
   /* 40 */
-  "Mixed Up Roving", "Interdimensional Voyaging", "Offensive Exchanges", "Filching Colours", "Orchids",
+  "Baal", "Greening", "Beamsplat", "Chitklesh", "Dripcurl",
   /* 45 */
-  "Smashing Into Loose Layers", "Embarrassing Outbursts", "Sand Sharks", "Ghosts in the Roaring Night", "Bittersweet",
+  "Eggpecker", "Besditer", "Pipirocratic", "Wetini", "Endot",
   /* 50 */
-  "Litigating", "Generously Sharing Emotions", "Litigating Morals", "Repeating the Past", "Plugging a Hole",
+  "Breada", "Oyemose", "Yespop", "Agatek", "Insalubrious",
   /* 55 */
-  "“We’re Not Finished Yet”", "Succession of Battles", "Last to the Draw", "Milling Around", "Too Much High Spirits",
+  "Möbius", "Misdirection", "Naysahto", "Agatek", "Scraprail",
   /* 60 */
-  "Storming into the Threshold", "Casualizing Cringing", "Word Clouds", "Internment", "Pickup Lines",
+  "Bathana", "Slackwalled", "Pancake", "Ecchacha", "Retrograde",
   /* 65 */
-  "The Walking Down the Middle of the Road", "Crouching in the Hallway", "Waiting to Explode", "Unbounded Sentiments", "Hungry for the Positive",
+  "Stubor", "Etchafamous", "Xist", "Zogemus", "Zolthypnoe",
   /* 70 */
-  "Sharing the Hard Truth", "Subversive Terror", "Tragically Passing Time",
+  "Thoth-Pharaoh", "Babauk", "LittleGreater", "Lavel"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
