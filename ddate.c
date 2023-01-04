@@ -111,41 +111,39 @@ char *day_long[5] = {
  * 1.5 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
  * subset of the Internet.
  * This felt appropriate.
- * -- UPDATE: talktotransformer is still down. I went to a local GPT-2 instance.
- * Update: Slightly adjusted the generated names. Once GPT-2 falls into a repetetive pattern, neither
- * hell nor high water can divert it. In this case, it just repeated every word twice.
+ * Update: It really got into it with the creativity this time. Just a good simple run.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Bloomingfull", "Gallaudet", "Taglestick", "Frogleg",
+  "Myriation", "Shellblower", "\"Sparky Time\"", "Flamme Nerve", "Osmocord",
   /* 10 */
-  "Larbustoff", "Fieldfast", "Wormtime", "Boomerang", "Stringball",
+  "Djymmicoumercury", "Drifting Thing", "Yaydunmigan", "Minkumgalith", "Crampatron",
   /* 15 */
-  "Enturblate", "Plasticovall", "Farty", "Asperblock", "Tisatort",
+  "Deathatradition", "Phlonocori", "Oak Brown", "\"Treblefatigue", "Rough Stuff\"", "Exasperation",
   /* 20 */
-  "Plantshow", "Bean-Root", "Flower Power", "Pastafilter", "Weedenore",
+  "Cerachias", "Devilafoam", "Dynamichord", "Folly", "Ickymongrel",
   /* 25 */
-  "Rabbedthort", "Bespitkel", "Sheepturd", "Dindings", "Yoldev",
+  "Humor", "Birdcage Chorus", "Ripeless", "Soft Matter", "Sepulchral",
   /* 30 */
-  "Jitterpurr", "Splatkinthort", "Indistinguishation", "Mandikin", "Jendan",
+  "Scaevola", "Wyrmthing", "Fullgrown", "Silent Doorway", "Blooddrinking",
   /* 35 */
-  "Un-Blind", "Farmerfork", "Oogly", "Waterlong", "Namek",
+  "Colourful Ergies", "Glomulchocles", "Redheart", "Mysterium", "Cryptomnesia",
   /* 40 */
-  "Baal", "Greening", "Beamsplat", "Chitklesh", "Dripcurl",
+  "Twinfinger", "Cachet", "Pornographic", "Portmanteau", "Leucoratoporia",
   /* 45 */
-  "Eggpecker", "Besditer", "Pipirocratic", "Wetini", "Endot",
+  "Hornos", "Surplus", "Bowels", "Waste", "Shameful",
   /* 50 */
-  "Breada", "Oyemose", "Yespop", "Agatek", "Insalubrious",
+  "Yetundigoth", "Two-Headed Dragon", "Radium", "Our Mother", "Excecution",
   /* 55 */
-  "Möbius", "Misdirection", "Naysahto", "Agatek", "Scraprail",
+  "Insubordination", "Indigestion", "Swampfunk", "Muteland", "Inclination",
   /* 60 */
-  "Bathana", "Slackwalled", "Pancake", "Ecchacha", "Retrograde",
+  "Squiggle", "Pomposity", "Knowles II", "Aerosolid", "Ashteroth",
   /* 65 */
-  "Stubor", "Etchafamous", "Xist", "Zogemus", "Zolthypnoe",
+  "Herrmcretchen", "Szaratos", "Crossed-Dyad", "Hopelessness", "Paranoia",
   /* 70 */
-  "Thoth-Pharaoh", "Babauk", "LittleGreater", "Lavel"
+  "Dybblephoria", "Adjoint-Mitypositis"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
