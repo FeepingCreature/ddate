@@ -121,7 +121,7 @@ char *day_extended[73] = {
   /* 10 */
   "Djymmicoumercury", "Drifting Thing", "Yaydunmigan", "Minkumgalith", "Crampatron",
   /* 15 */
-  "Deathatradition", "Phlonocori", "Oak Brown", "\"Treblefatigue", "Rough Stuff\"", "Exasperation",
+  "Deathatradition", "Phlonocori", "Oak Brown", "\"Treblefatigue\", \"Rough Stuff\"", "Exasperation",
   /* 20 */
   "Cerachias", "Devilafoam", "Dynamichord", "Folly", "Ickymongrel",
   /* 25 */
@@ -143,7 +143,7 @@ char *day_extended[73] = {
   /* 65 */
   "Herrmcretchen", "Szaratos", "Crossed-Dyad", "Hopelessness", "Paranoia",
   /* 70 */
-  "Dybblephoria", "Adjoint-Mitypositis"
+  "Dybblephoria", "Adjoint-Mitypositis", "Dehydration"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
