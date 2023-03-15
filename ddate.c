@@ -107,43 +107,40 @@ char *day_long[5] = {
 };
 
 /**
- * Produced by iteratedly feeding the list of five days into talktotransformer.com running the
- * 1.5 billion parameter GPT-2, which is effectively a supercomputer trained by feeding it a random
- * subset of the Internet.
- * This felt appropriate.
- * Update: It really got into it with the creativity this time. Just a good simple run.
+ * Produced by iteratedly feeding the list of five days into a local copy of ChatRWKV.
+ * I'm not entirely convinced that the higher model size made it better.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Myriation", "Shellblower", "\"Sparky Time\"", "Flamme Nerve", "Osmocord",
+  "Sweetmorn", "Firstbark", "Ebonheart", "Buckram", "Forkfork",
   /* 10 */
-  "Djymmicoumercury", "Drifting Thing", "Yaydunmigan", "Minkumgalith", "Crampatron",
+  "Bewilderbeast", "Buckrambeast", "Strawberry Days", "Strawberry", "Setting Red",
   /* 15 */
-  "Deathatradition", "Phlonocori", "Oak Brown", "\"Treblefatigue\", \"Rough Stuff\"", "Exasperation",
+  "Setting Orange", "Honeyday", "Snicklefritz", "Sourplumbed", "Girdleday",
   /* 20 */
-  "Cerachias", "Devilafoam", "Dynamichord", "Folly", "Ickymongrel",
+  "Girdle Day", "Bee Day", "Tricolorday", "Arbor Day", "Starbuck Day",
   /* 25 */
-  "Humor", "Birdcage Chorus", "Ripeless", "Soft Matter", "Sepulchral",
+  "Petrishopping", "Blackberry", "Smuckers", "Firstleaf", "Firstday",
   /* 30 */
-  "Scaevola", "Wyrmthing", "Fullgrown", "Silent Doorway", "Blooddrinking",
+  "Girdlebeast", "Strawberrydays", "Honeyday", "Biteleaf", "Forkleaf",
   /* 35 */
-  "Colourful Ergies", "Glomulchocles", "Redheart", "Mysterium", "Cryptomnesia",
+  "Woozlesday", "Rye Days", "Sugarshock", "Teahenry", "Scarecrow",
   /* 40 */
-  "Twinfinger", "Cachet", "Pornographic", "Portmanteau", "Leucoratoporia",
+  "Amontilladash", "Myrtleshock", "Ohohohoo", "Ohmygod! Forkleaf", "Forkleaf Day",
   /* 45 */
-  "Hornos", "Surplus", "Bowels", "Waste", "Shameful",
+  "Smuckersday", "Forkleafday", "Forkleafday", "Wheatleap Year", "Afterbread",
   /* 50 */
-  "Yetundigoth", "Two-Headed Dragon", "Radium", "Our Mother", "Excecution",
+  "Teahenrydays", "Beanydays", "Plumpbread Week", "Strawberryweek", "Monologue Day",
   /* 55 */
-  "Insubordination", "Indigestion", "Swampfunk", "Muteland", "Inclination",
+  "Beeweeks", "Firstbreeze", "Mealsday", "Harvest Eve", "Harvest Day",
   /* 60 */
-  "Squiggle", "Pomposity", "Knowles II", "Aerosolid", "Ashteroth",
+  "Erisday", "Subterfuge", "Trickday", "Eris Day", "Yawnerday",
   /* 65 */
-  "Herrmcretchen", "Szaratos", "Crossed-Dyad", "Hopelessness", "Paranoia",
+  "Sourplumtime", "Smuckersday", "Biteleaf Day", "Bee Weekend",
   /* 70 */
-  "Dybblephoria", "Adjoint-Mitypositis", "Dehydration"
+  "Birding", "Nosehorn", "Bee Day"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
