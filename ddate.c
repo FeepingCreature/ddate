@@ -107,40 +107,28 @@ char *day_long[5] = {
 };
 
 /**
- * Produced by iteratedly feeding the list of five days into a local copy of ChatRWKV.
- * I'm not entirely convinced that the higher model size made it better.
+ * Produced with app.inferkit.com again cause I was feeling lazy.
+ * I shall attempt not to interpret too much into the fact that the season ends with "Doomsday".
+ * (not immanent, not immanent, not immanent)
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  /* 5 */
-  "Sweetmorn", "Firstbark", "Ebonheart", "Buckram", "Forkfork",
-  /* 10 */
-  "Bewilderbeast", "Buckrambeast", "Strawberry Days", "Strawberry", "Setting Red",
-  /* 15 */
-  "Setting Orange", "Honeyday", "Snicklefritz", "Sourplumbed", "Girdleday",
-  /* 20 */
-  "Girdle Day", "Bee Day", "Tricolorday", "Arbor Day", "Starbuck Day",
-  /* 25 */
-  "Petrishopping", "Blackberry", "Smuckers", "Firstleaf", "Firstday",
-  /* 30 */
-  "Girdlebeast", "Strawberrydays", "Honeyday", "Biteleaf", "Forkleaf",
-  /* 35 */
-  "Woozlesday", "Rye Days", "Sugarshock", "Teahenry", "Scarecrow",
-  /* 40 */
-  "Amontilladash", "Myrtleshock", "Ohohohoo", "Ohmygod! Forkleaf", "Forkleaf Day",
-  /* 45 */
-  "Smuckersday", "Forkleafday", "Forkleafday", "Wheatleap Year", "Afterbread",
-  /* 50 */
-  "Teahenrydays", "Beanydays", "Plumpbread Week", "Strawberryweek", "Monologue Day",
-  /* 55 */
-  "Beeweeks", "Firstbreeze", "Mealsday", "Harvest Eve", "Harvest Day",
-  /* 60 */
-  "Erisday", "Subterfuge", "Trickday", "Eris Day", "Yawnerday",
-  /* 65 */
-  "Sourplumtime", "Smuckersday", "Biteleaf Day", "Bee Weekend",
-  /* 70 */
-  "Birding", "Nosehorn", "Bee Day"
+  "Forever", "Cloaktime", "Burning Eyeball", "Fuggle", "Eye-Stink",
+  "Dreamtime", "Swallowbreath", "Sneeze", "Feeding Time", "Taste!",
+  "Silverday", "Leave-tosday", "Succushion", "Pack Animal",
+  "Nightmummer", "Doflemeler", "Flowerday", "Firday", "Spawnbeast",
+  "Kwanzaa", "The Boys Watch", "Drabness", "Disco-Fumes", "Veddy Loud",
+  "Gedankenwolp", "The Train of Bestowal", "Winter In Trains",
+  "Yellday", "Mortimers", "Mesmerised", "Miscarriage", "Fungusfargot",
+  "What's Up", "Eidelbeds", "I-E-T-E-D", "Softly", "Evacuate", "No-See-O", "Toosh",
+  "Lyserg", "Amurgays", "Club Bag", "Helllicious", "Brawl", "Rockabilly", "Mommie Dearest",
+  "What's New", "Eye Screams", "Masons In the Hamptons", "Louder-Than-Glove", "Push Me", "Pinch Me", "A Buck and a Quarter", "Buck-a-Five",
+  "Idunnost", "Happiness Justifies Evil", "Synerbitum", "Introductory Interview", "Throbbing Gristle",
+  /* 64 */
+  "Tueday", "Einhandbuch (The Other Hand Book)", "Shark Stew", "Jupiter's Day (Earth)",
+  "Edonnatt", "Cereal Zone", "Rampant Horse", "Laffies",
+  "Doomsday"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
