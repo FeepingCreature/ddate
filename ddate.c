@@ -107,28 +107,34 @@ char *day_long[5] = {
 };
 
 /**
- * Produced with app.inferkit.com again cause I was feeling lazy.
- * I shall attempt not to interpret too much into the fact that the season ends with "Doomsday".
- * (not immanent, not immanent, not immanent)
+ * Well, last season's "Doomsday" turned out harmless. However, on Buck-a-Five, my
+ * apartment burned down. I'm not sure how to take that.
+ * New season, inferkit again. At least no *obvious* worries this time.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Forever", "Cloaktime", "Burning Eyeball", "Fuggle", "Eye-Stink",
-  "Dreamtime", "Swallowbreath", "Sneeze", "Feeding Time", "Taste!",
-  "Silverday", "Leave-tosday", "Succushion", "Pack Animal",
-  "Nightmummer", "Doflemeler", "Flowerday", "Firday", "Spawnbeast",
-  "Kwanzaa", "The Boys Watch", "Drabness", "Disco-Fumes", "Veddy Loud",
-  "Gedankenwolp", "The Train of Bestowal", "Winter In Trains",
-  "Yellday", "Mortimers", "Mesmerised", "Miscarriage", "Fungusfargot",
-  "What's Up", "Eidelbeds", "I-E-T-E-D", "Softly", "Evacuate", "No-See-O", "Toosh",
-  "Lyserg", "Amurgays", "Club Bag", "Helllicious", "Brawl", "Rockabilly", "Mommie Dearest",
-  "What's New", "Eye Screams", "Masons In the Hamptons", "Louder-Than-Glove", "Push Me", "Pinch Me", "A Buck and a Quarter", "Buck-a-Five",
-  "Idunnost", "Happiness Justifies Evil", "Synerbitum", "Introductory Interview", "Throbbing Gristle",
-  /* 64 */
-  "Tueday", "Einhandbuch (The Other Hand Book)", "Shark Stew", "Jupiter's Day (Earth)",
-  "Edonnatt", "Cereal Zone", "Rampant Horse", "Laffies",
-  "Doomsday"
+  "Blue Dove", "Blamaxolon", "Brutonday", "Quakesabroke", "Alpha's Asscent",
+  /* 10 */
+  "Stargifle", "Furball", "Menacing Kaos", "Crack-up", "Aumbryt",
+  "Shove", "Kaalrinn", "Baffyday", "Setting Green", "Dasgann",
+  /* 20 */
+  "Tongueless Barley", "Crackercast", "Perhpsoon", "Tidepool", "Kinsey Log",
+  "Streakcat", "Dropcraft", "Unsexweek", "Durrbulah", "Whangstix",
+  /* 30 */
+  "Winthrop's Day", "Unum", "Mica Menode", "Abhorrent Devol", "Ban the Four Naos",
+  "Reynee", "Reptilebel", "Pyagriffic", "Ackwardism", "Stargrazer",
+  /* 40 */
+  "Davos", "Menovemer", "The 'Ax", "Chat's Sake", "Poofday",
+  "Veerehaven", "Aquathermal", "Godhegorge", "Earthlight", "Krushday",
+  /* 50 */
+  "Goldenreunion", "Buckstop", "Pithing Day", "Potentially Frustrating Day", "Bonito",
+  "Boinkie", "That's Not My Line", "Ringa-Kissas", "Strobelite", "Us to Somethin'",
+  /* 60 */
+  "Clawfist", "Chulter", "Misteltoe", "Ceartais", "Tigarock",
+  "Oxmonk", "Avvadeem", "Ahum-b-be", "Suyeght", "Moonwerk",
+  /* 70 */
+  "Backwash", "The little Bongo", "Tesri"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
