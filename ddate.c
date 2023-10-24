@@ -107,34 +107,33 @@ char *day_long[5] = {
 };
 
 /**
- * Well, last season's "Doomsday" turned out harmless. However, on Buck-a-Five, my
- * apartment burned down. I'm not sure how to take that.
- * New season, inferkit again. At least no *obvious* worries this time.
+ * New Inferkit season. The network has clearly decided to go a more overt nonsense route.
+ * This will require some decoding.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Blue Dove", "Blamaxolon", "Brutonday", "Quakesabroke", "Alpha's Asscent",
+  "Fizzlehuffleelash", "Thunderbrain", "Blarrakporrettahororrath", "Eldgravlinchtorb", "Wigglewrench",
   /* 10 */
-  "Stargifle", "Furball", "Menacing Kaos", "Crack-up", "Aumbryt",
-  "Shove", "Kaalrinn", "Baffyday", "Setting Green", "Dasgann",
+  "Far Behind", "Spiny", "Nines and Thousandness", "Caution", "Landrover",
+  "Dead Time", "Black Stump", "Witching Hour", "Chattein", "Mild-Weed",
   /* 20 */
-  "Tongueless Barley", "Crackercast", "Perhpsoon", "Tidepool", "Kinsey Log",
-  "Streakcat", "Dropcraft", "Unsexweek", "Durrbulah", "Whangstix",
+  "Goblin", "Corpsefish", "Hornrush", "Punkage", "Rattyness",
+  "Deceit", "Offrancor", "Humid Week", "Hexplotz", "Nympnaflock",
   /* 30 */
-  "Winthrop's Day", "Unum", "Mica Menode", "Abhorrent Devol", "Ban the Four Naos",
-  "Reynee", "Reptilebel", "Pyagriffic", "Ackwardism", "Stargrazer",
+  "Retrogradrp", "Froth and Fury", "Noth", "Fetid", "Clammont",
+  "Licketyupter", "Gnomefingernail", "Undiscoverd", "Sotenoids", "Propagadon",
   /* 40 */
-  "Davos", "Menovemer", "The 'Ax", "Chat's Sake", "Poofday",
-  "Veerehaven", "Aquathermal", "Godhegorge", "Earthlight", "Krushday",
+  "Twiddler", "Sporefight", "Coiltower", "Frightfully", "Terrowige",
+  "Dusty", "Odor-of-the-Deep", "Enervade", "Shimmies", "Rip-Tide",
   /* 50 */
-  "Goldenreunion", "Buckstop", "Pithing Day", "Potentially Frustrating Day", "Bonito",
-  "Boinkie", "That's Not My Line", "Ringa-Kissas", "Strobelite", "Us to Somethin'",
+  "Fickle", "Slaughterhouse", "Utterly", "Intemperance", "Candleful",
+  "Hunch-Wheel", "Skwitzky", "Patches", "Taco Dog", "Stubbornness",
   /* 60 */
-  "Clawfist", "Chulter", "Misteltoe", "Ceartais", "Tigarock",
-  "Oxmonk", "Avvadeem", "Ahum-b-be", "Suyeght", "Moonwerk",
+  "Torpor", "Utter Blemish", "Teethweeping", "Psshwup", "Pegleg",
+  "Muzzy", "Yawn", "Cryptodyne", "Deeper", "Crawlspace",
   /* 70 */
-  "Backwash", "The little Bongo", "Tesri"
+  "The Gift of Nausea", "Synthesis", "Vaporous"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
