@@ -113,27 +113,19 @@ char *day_long[5] = {
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Fizzlehuffleelash", "Thunderbrain", "Blarrakporrettahororrath", "Eldgravlinchtorb", "Wigglewrench",
-  /* 10 */
-  "Far Behind", "Spiny", "Nines and Thousandness", "Caution", "Landrover",
-  "Dead Time", "Black Stump", "Witching Hour", "Chattein", "Mild-Weed",
-  /* 20 */
-  "Goblin", "Corpsefish", "Hornrush", "Punkage", "Rattyness",
-  "Deceit", "Offrancor", "Humid Week", "Hexplotz", "Nympnaflock",
-  /* 30 */
-  "Retrogradrp", "Froth and Fury", "Noth", "Fetid", "Clammont",
-  "Licketyupter", "Gnomefingernail", "Undiscoverd", "Sotenoids", "Propagadon",
-  /* 40 */
-  "Twiddler", "Sporefight", "Coiltower", "Frightfully", "Terrowige",
-  "Dusty", "Odor-of-the-Deep", "Enervade", "Shimmies", "Rip-Tide",
-  /* 50 */
-  "Fickle", "Slaughterhouse", "Utterly", "Intemperance", "Candleful",
-  "Hunch-Wheel", "Skwitzky", "Patches", "Taco Dog", "Stubbornness",
-  /* 60 */
-  "Torpor", "Utter Blemish", "Teethweeping", "Psshwup", "Pegleg",
-  "Muzzy", "Yawn", "Cryptodyne", "Deeper", "Crawlspace",
-  /* 70 */
-  "The Gift of Nausea", "Synthesis", "Vaporous"
+  "Creative Creative", "Random Random", "Delightful Delirious", "Merry Madness", "Chaos Confetti",
+  "Unpredictable Unfathomable", "Jester Juggle", "Madcap Mayhem", "Absurd Adventure", "Silly Serendipity",
+"Weird Wackiness", "Frivolous Frolic", "Imaginative Insanity", "Eccentric Ecstasy", "Kooky Craziness",
+"Whimsical Wonder", "Playful Pandemonium", "Fantastical Fiasco", "Bizarre Bewilderment", "Mischief Marvel",
+"Absurdum Antics", "Ludicrous Laughter", "Fanciful Follies", "Absurdity Anarchy", "Nonsensical Nonsense",
+"Comedy Catastrophe", "Riotous Romp", "Lunacy Laugh", "Curious Caper", "Hysterical Hijinks", "Ridiculous Rumpus",
+"Surreal Silliness", "Daft Daze", "Entertaining Explosion", "Absurdist Adventures", "Jolly Jamboree",
+"Goofy Gambol", "Whacky Wonderland", "Foolish Festivities", "Inane Intrigue", "Clownish Caprice",
+"Absurdity Amusement", "Humorous Hilarity", "Wacky Whimsy", "Madcap Madness", "Bizarre Bananas",
+"Nonsensical Nonsense", "Farcical Folly", "Outlandish Oddity", "Quirky Quirk", "Laughable Lunacy",
+"Silly Slapstick", "Crazy Carnival", "Ridiculous Revelry", "Whimsical Whirlwind", "Improbable Irrational",
+"Fantastical Farce", "Absurd Adventure", "Playful Paradox", "Wonder Wahala", "Hilarious Havoc", "Eccentric Extravaganza",
+"Manic Madhouse", "Ludicrous Lunatic", "Surreal Sensation", "Zany Zest", "Foolishness Fest", "Riotous Ridiculousness"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
