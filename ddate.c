@@ -107,25 +107,32 @@ char *day_long[5] = {
 };
 
 /**
- * New Inferkit season. The network has clearly decided to go a more overt nonsense route.
- * This will require some decoding.
+ * Thanks to Mixtral 8x7b!
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Creative Creative", "Random Random", "Delightful Delirious", "Merry Madness", "Chaos Confetti",
-  "Unpredictable Unfathomable", "Jester Juggle", "Madcap Mayhem", "Absurd Adventure", "Silly Serendipity",
-"Weird Wackiness", "Frivolous Frolic", "Imaginative Insanity", "Eccentric Ecstasy", "Kooky Craziness",
-"Whimsical Wonder", "Playful Pandemonium", "Fantastical Fiasco", "Bizarre Bewilderment", "Mischief Marvel",
-"Absurdum Antics", "Ludicrous Laughter", "Fanciful Follies", "Absurdity Anarchy", "Nonsensical Nonsense",
-"Comedy Catastrophe", "Riotous Romp", "Lunacy Laugh", "Curious Caper", "Hysterical Hijinks", "Ridiculous Rumpus",
-"Surreal Silliness", "Daft Daze", "Entertaining Explosion", "Absurdist Adventures", "Jolly Jamboree",
-"Goofy Gambol", "Whacky Wonderland", "Foolish Festivities", "Inane Intrigue", "Clownish Caprice",
-"Absurdity Amusement", "Humorous Hilarity", "Wacky Whimsy", "Madcap Madness", "Bizarre Bananas",
-"Nonsensical Nonsense", "Farcical Folly", "Outlandish Oddity", "Quirky Quirk", "Laughable Lunacy",
-"Silly Slapstick", "Crazy Carnival", "Ridiculous Revelry", "Whimsical Whirlwind", "Improbable Irrational",
-"Fantastical Farce", "Absurd Adventure", "Playful Paradox", "Wonder Wahala", "Hilarious Havoc", "Eccentric Extravaganza",
-"Manic Madhouse", "Ludicrous Lunatic", "Surreal Sensation", "Zany Zest", "Foolishness Fest", "Riotous Ridiculousness"
+  "Rickle", "Mujen", "Turdng", "Gorp", "Smathings",
+  /* 10 */
+  "Wilted Green", "Sweet Wheen", "Smutney", "Moosday", "Nextday",
+  "Recovery", "Tenthday", "Sixthday", "Firstday", "Secondday",
+  /* 20 */
+  "Disloyalty", "Freezing", "Frozen", "Chagrin", "Yesterday",
+  "Deep Deep", "Bad Verge", "Hellburn", "Hooping", "Hoiday",
+  /* 30 */
+  "Clown Day", "Stroupant", "Jumpeday", "Gamerdag", "Dohday",
+  "Gate Gate", "Crap", "Tomorrow", "Fifthday", "Yet Another",
+  /* 40 */
+  "Moo Still", "Terrible", "Sickday", "Crazyday", "Dopeday",
+  "Good", "But", "NO!", "No Yet", "First But",
+  /* 50 */
+  "Honey", "Sad", "Daysaver", "Two Three", "Little Day",
+  "Goo", "Mauhday", "Wolfy Nacht", "Jaywalk", "Ababy",
+  /* 60 */
+  "Splay", "Sunerdle", "Wettemday", "The Debut", "Babble",
+  "Sin", "People", "Blahday", "Really?", "Sweety",
+  /* 70 */
+  "Barnud", "Quicken", "Bast Wombat",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
