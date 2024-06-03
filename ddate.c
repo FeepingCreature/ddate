@@ -107,32 +107,32 @@ char *day_long[5] = {
 };
 
 /**
- * Thanks to Mixtral 8x7b!
+ * Nous Capybara 7B also gets a turn.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Rickle", "Mujen", "Turdng", "Gorp", "Smathings",
+  "Toothache", "Frostybal", "Squeakypans", "The Albino", "Vacuumday",
   /* 10 */
-  "Wilted Green", "Sweet Wheen", "Smutney", "Moosday", "Nextday",
-  "Recovery", "Tenthday", "Sixthday", "Firstday", "Secondday",
+  "Igotcha", "Decadent", "Blackhole", "Cafard", "Thundermood",
+  "Wangdu", "Chez_What", "Goodie Goodie", "Uplift", "Wolende",
   /* 20 */
-  "Disloyalty", "Freezing", "Frozen", "Chagrin", "Yesterday",
-  "Deep Deep", "Bad Verge", "Hellburn", "Hooping", "Hoiday",
+  "Ladyfinger", "Almpajami", "Ergobrain", "Popglam", "MmmSimnel",
+  "Wriki", "Foisgrab", "Greasepant", "Truecscript", "Brokedown",
   /* 30 */
-  "Clown Day", "Stroupant", "Jumpeday", "Gamerdag", "Dohday",
-  "Gate Gate", "Crap", "Tomorrow", "Fifthday", "Yet Another",
+  "Hairy Ampoules", "Eyetweed", "Whutche", "Gurglehead", "Boozoos",
+  "Zfukbores", "Whizbo", "Ouchrit", "Quiz wor", "Oyabun" ,
   /* 40 */
-  "Moo Still", "Terrible", "Sickday", "Crazyday", "Dopeday",
-  "Good", "But", "NO!", "No Yet", "First But",
+  "Moltepiatti", "Showersweet", "Billoko", "Glurpglom", "Snuffles",
+  "Esbunble", "Pramblen", "Brin block", "Glandrush", "Blodegram" ,
   /* 50 */
-  "Honey", "Sad", "Daysaver", "Two Three", "Little Day",
-  "Goo", "Mauhday", "Wolfy Nacht", "Jaywalk", "Ababy",
+  "Googie Thank You", "Skuxx", "Wagarthi", "Dribsly", "Nouff",
+  "Oopsit", "Zibby", "Snozberry", "Sniven", "Donqueshae" ,
   /* 60 */
-  "Splay", "Sunerdle", "Wettemday", "The Debut", "Babble",
-  "Sin", "People", "Blahday", "Really?", "Sweety",
+  "Tooride", "Fooffy", "Eirgram", "Idiodrum", "Astrochemy" ,
+  "Eargasms", "Ergobu", "Codswap", "Rhosliburr", "Liinloo",
   /* 70 */
-  "Barnud", "Quicken", "Bast Wombat",
+  "Medarth", "Moomfreer", "Corki-deviat",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
