@@ -107,32 +107,39 @@ char *day_long[5] = {
 };
 
 /**
- * Nous Capybara 7B also gets a turn.
+ * Nous Capybara 7B continues to be reliable!
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Toothache", "Frostybal", "Squeakypans", "The Albino", "Vacuumday",
+  /* 5 */
+  "The Shooting Gallery", "Kans trapezoidal", "Feast O' Fervor", "Ion Blow", "Polyxomena",
   /* 10 */
-  "Igotcha", "Decadent", "Blackhole", "Cafard", "Thundermood",
-  "Wangdu", "Chez_What", "Goodie Goodie", "Uplift", "Wolende",
+  "Elevator Ascending", "Crunched", "Much Ado About Monkey", "The Cat Herder", "Hurrying",
+  /* 15 */
+  "Honkification", "Epater Lafayette", "Consideration of the Crumpet", "Vannilla", "Chaos MSRP",
   /* 20 */
-  "Ladyfinger", "Almpajami", "Ergobrain", "Popglam", "MmmSimnel",
-  "Wriki", "Foisgrab", "Greasepant", "Truecscript", "Brokedown",
+  "Within Us Without", "Reconstitution Committee", "'Nother Mother", "Godot-stricken", "The Spine",
+  /* 25 */
+  "Sacred, the 28th Day", "The Fourth Threshold", "Furo-Menussalas", "Rubber Karma", "Pillow Shrubbery",
   /* 30 */
-  "Hairy Ampoules", "Eyetweed", "Whutche", "Gurglehead", "Boozoos",
-  "Zfukbores", "Whizbo", "Ouchrit", "Quiz wor", "Oyabun" ,
+  "The Great Pumpkin Spector", "Kyber Krisp", "Pythogorific Delight", "The End of a Short Journey", "Skreetmeow",
+  /* 35 */
+  "Harpomancy Trance", "W.I.N.K.!", "Pudding Bowls", "Gonk Oriole", "Syzygy-Tonicism",
   /* 40 */
-  "Moltepiatti", "Showersweet", "Billoko", "Glurpglom", "Snuffles",
-  "Esbunble", "Pramblen", "Brin block", "Glandrush", "Blodegram" ,
+  "Magnetic Mood", "Ephemera", "Realz Monkey", "Froopatty Mayor", "Opaque Blimp Line",
+  /* 45 */
+  "Lucky Seven A.L.", "The Cream Team", "Holy Willpower", "Chainsawginia", "Erika Moonpack",
   /* 50 */
-  "Googie Thank You", "Skuxx", "Wagarthi", "Dribsly", "Nouff",
-  "Oopsit", "Zibby", "Snozberry", "Sniven", "Donqueshae" ,
+  "Seek-A-Seven", "Rev. Macaroonfish", "Of the Guppy Horde", "Liquid Wickerbastard", "Owl-a-Rooney",
+  /* 55 */
+  "Bookends", "What-Ever in", "An Oboe Points", "Grafted Pineapple", "Whoozit Mixtup",
   /* 60 */
-  "Tooride", "Fooffy", "Eirgram", "Idiodrum", "Astrochemy" ,
-  "Eargasms", "Ergobu", "Codswap", "Rhosliburr", "Liinloo",
+   "Squeaky Sundown", "Trine Finkenstein", "Aitch, galacta!", "Droodball might", "Propulsion",
+  /* 65 */
+  "Rabbit, don't", "12", "The Lair of Woof", "Cinder🔥", "Cannabis",
   /* 70 */
-  "Medarth", "Moomfreer", "Corki-deviat",
+  "Brain drizzle', 'Gui", "Axis of the Milky Way", "Curiosity",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
