@@ -107,39 +107,39 @@ char *day_long[5] = {
 };
 
 /**
- * Nous Capybara 7B continues to be reliable!
+ * This is the problem with instruct models, they go mythic. We'll accept it ... this time.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "The Shooting Gallery", "Kans trapezoidal", "Feast O' Fervor", "Ion Blow", "Polyxomena",
+  "Bright Banana", "Slow Drooping", "Grinning Skyrack", "Wide-Eyed Dazzle", "The Lovely Void",
   /* 10 */
-  "Elevator Ascending", "Crunched", "Much Ado About Monkey", "The Cat Herder", "Hurrying",
+  "Silver Shadow", "Lemon Demon", "Bad Raspberry", "Dwindling Indigo", "Nocturnal Miming",
   /* 15 */
-  "Honkification", "Epater Lafayette", "Consideration of the Crumpet", "Vannilla", "Chaos MSRP",
+  "Vigilant Wilting", "Precious Shimmer", "Silent Tapestry", "Mintz in Mind", "Solar Twinkling",
   /* 20 */
-  "Within Us Without", "Reconstitution Committee", "'Nother Mother", "Godot-stricken", "The Spine",
+  "Green Lemon", "The Golden Bouquet", "Tired Eyes", "Fractured Verity", "Twilight Mulch",
   /* 25 */
-  "Sacred, the 28th Day", "The Fourth Threshold", "Furo-Menussalas", "Rubber Karma", "Pillow Shrubbery",
+  "Invisible Gloom", "Happy Tutu", "Radiant Delight", "Purple Glow", "Fading Zipper",
   /* 30 */
-  "The Great Pumpkin Spector", "Kyber Krisp", "Pythogorific Delight", "The End of a Short Journey", "Skreetmeow",
+  "Divine Fad", "Awakening Aromas", "Sunlit Grin", "Fragrant Air", "Twilight Fog",
   /* 35 */
-  "Harpomancy Trance", "W.I.N.K.!", "Pudding Bowls", "Gonk Oriole", "Syzygy-Tonicism",
+  "Starry-Eyed Cognition", "Oncoming Joy", "Softly Cradled", "Celestial Whispers", "Slowly Embracing",
   /* 40 */
-  "Magnetic Mood", "Ephemera", "Realz Monkey", "Froopatty Mayor", "Opaque Blimp Line",
+  "Moonlit Serenity", "Dancing Starlight", "Drifting Shadows", "Earthly Dreams", "Endless Dusk",
   /* 45 */
-  "Lucky Seven A.L.", "The Cream Team", "Holy Willpower", "Chainsawginia", "Erika Moonpack",
+  "Starry Nightfall", "Eternal Darkness", "Lost Horizon", "Living Dreams", "Quiet Awakening",
   /* 50 */
-  "Seek-A-Seven", "Rev. Macaroonfish", "Of the Guppy Horde", "Liquid Wickerbastard", "Owl-a-Rooney",
+  "Glimmering Sunrise", "Warm Embrace", "Endless Possibilities", "Everlasting Love", "Infinite Joy",
   /* 55 */
-  "Bookends", "What-Ever in", "An Oboe Points", "Grafted Pineapple", "Whoozit Mixtup",
+  "Elusive Beauty", "Timeless Wisdom", "Eternal Bliss", "Infinite Happiness", "Eternal Light",
   /* 60 */
-   "Squeaky Sundown", "Trine Finkenstein", "Aitch, galacta!", "Droodball might", "Propulsion",
+  "Contemplative Serenity", "Love's Transcendence", "Vibrant Dichotomy", "Artistic Expanse", "Soothing Melody",
   /* 65 */
-  "Rabbit, don't", "12", "The Lair of Woof", "Cinder🔥", "Cannabis",
+  "Vivid Imagination", "Melodious Resonance", "Exuberant Harmony", "Majestic Symphony", "Infinite Melodies",
   /* 70 */
-  "Brain drizzle', 'Gui", "Axis of the Milky Way", "Curiosity",
+  "Galactic Ballad", "Divine Melodies", "Timeless Harmonies",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
