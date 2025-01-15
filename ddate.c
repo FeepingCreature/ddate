@@ -107,39 +107,39 @@ char *day_long[5] = {
 };
 
 /**
- * This is the problem with instruct models, they go mythic. We'll accept it ... this time.
+ * Llama 3.1-70b went slightly mad making this. But it got there in the end.
  */
 char *day_extended[73] = {
   /* 0 */
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 5 */
-  "Bright Banana", "Slow Drooping", "Grinning Skyrack", "Wide-Eyed Dazzle", "The Lovely Void",
+  "Hot Dog Friday", "Bureaucracyday", "Shoppingday", "Feastday", "Aftermathday",
   /* 10 */
-  "Silver Shadow", "Lemon Demon", "Bad Raspberry", "Dwindling Indigo", "Nocturnal Miming",
+  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
   /* 15 */
-  "Vigilant Wilting", "Precious Shimmer", "Silent Tapestry", "Mintz in Mind", "Solar Twinkling",
+  "Harlequin Friday", "Swap Hands Friday", "Trouble Falling", "Contraction Day", "First volunteer",
   /* 20 */
-  "Green Lemon", "The Golden Bouquet", "Tired Eyes", "Fractured Verity", "Twilight Mulch",
+  "Conclave Discussion", "Computer Transparency", "Alien Businessman", "Rejected Celebration", "Incomplete Friday",
   /* 25 */
-  "Invisible Gloom", "Happy Tutu", "Radiant Delight", "Purple Glow", "Fading Zipper",
+  "View On Supply", "Miss Web Tour", "Legal VR Evolution", "Crease Layer", "Alternate Truth",
   /* 30 */
-  "Divine Fad", "Awakening Aromas", "Sunlit Grin", "Fragrant Air", "Twilight Fog",
+  "Bench React Release", "Father To Believe", "King Class Time", "Minute Pastors", "Cassock Curl Friday",
   /* 35 */
-  "Starry-Eyed Cognition", "Oncoming Joy", "Softly Cradled", "Celestial Whispers", "Slowly Embracing",
+  "Setting Sail", "Foot Look", "Last Dense Energy", "Buoy Trade Shares", "Annual Cute",
   /* 40 */
-  "Moonlit Serenity", "Dancing Starlight", "Drifting Shadows", "Earthly Dreams", "Endless Dusk",
+  "Light Trim Soft Friday", "Week Experience", "Worm Complete Moods", "Blue Folk Puke", "Height Tone Board",
   /* 45 */
-  "Starry Nightfall", "Eternal Darkness", "Lost Horizon", "Living Dreams", "Quiet Awakening",
+  "Bag Order Luck", "Grasp Vase Wrong", "Now Apply Delete", "Mr Useful", "Announced Session",
   /* 50 */
-  "Glimmering Sunrise", "Warm Embrace", "Endless Possibilities", "Everlasting Love", "Infinite Joy",
+  "Lemon Time Cut", "Maintain Nation Dip", "Web Setup Reader", "Fast Popular", "King Washing",
   /* 55 */
-  "Elusive Beauty", "Timeless Wisdom", "Eternal Bliss", "Infinite Happiness", "Eternal Light",
+  "Group Thursday Friday", "Auction Rose", "Sprinkle Existence", "Rare Helper Read", "Fashion Office",
   /* 60 */
-  "Contemplative Serenity", "Love's Transcendence", "Vibrant Dichotomy", "Artistic Expanse", "Soothing Melody",
+  "Executive Blank Student", "Stage Award", "Outdated Fri", "Four Late Core", "Month At Work",
   /* 65 */
-  "Vivid Imagination", "Melodious Resonance", "Exuberant Harmony", "Majestic Symphony", "Infinite Melodies",
+  "Turn Communicate Die", "Proper Like Nation", "No Sea Buy", "Tele Mirror Delete", "Update Dance",
   /* 70 */
-  "Galactic Ballad", "Divine Melodies", "Timeless Harmonies",
+  "Butter Cause Stood", "Prime Trade Goal", "Push State Duty"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
