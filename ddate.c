@@ -107,39 +107,25 @@ char *day_long[5] = {
 };
 
 /**
- * Llama 3.1-70b went slightly mad making this. But it got there in the end.
+ * I'm ... not sure WizardLM 100% got the idea. But it's a valid gen, so we take it.
+ * The Goddess provides in all things.
  */
 char *day_extended[73] = {
-  /* 0 */
-  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  /* 5 */
-  "Hot Dog Friday", "Bureaucracyday", "Shoppingday", "Feastday", "Aftermathday",
-  /* 10 */
-  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  /* 15 */
-  "Harlequin Friday", "Swap Hands Friday", "Trouble Falling", "Contraction Day", "First volunteer",
-  /* 20 */
-  "Conclave Discussion", "Computer Transparency", "Alien Businessman", "Rejected Celebration", "Incomplete Friday",
-  /* 25 */
-  "View On Supply", "Miss Web Tour", "Legal VR Evolution", "Crease Layer", "Alternate Truth",
-  /* 30 */
-  "Bench React Release", "Father To Believe", "King Class Time", "Minute Pastors", "Cassock Curl Friday",
-  /* 35 */
-  "Setting Sail", "Foot Look", "Last Dense Energy", "Buoy Trade Shares", "Annual Cute",
-  /* 40 */
-  "Light Trim Soft Friday", "Week Experience", "Worm Complete Moods", "Blue Folk Puke", "Height Tone Board",
-  /* 45 */
-  "Bag Order Luck", "Grasp Vase Wrong", "Now Apply Delete", "Mr Useful", "Announced Session",
-  /* 50 */
-  "Lemon Time Cut", "Maintain Nation Dip", "Web Setup Reader", "Fast Popular", "King Washing",
-  /* 55 */
-  "Group Thursday Friday", "Auction Rose", "Sprinkle Existence", "Rare Helper Read", "Fashion Office",
-  /* 60 */
-  "Executive Blank Student", "Stage Award", "Outdated Fri", "Four Late Core", "Month At Work",
-  /* 65 */
-  "Turn Communicate Die", "Proper Like Nation", "No Sea Buy", "Tele Mirror Delete", "Update Dance",
-  /* 70 */
-  "Butter Cause Stood", "Prime Trade Goal", "Push State Duty"
+  /* 01 */ "Chaoflux", "St. Tib's Day", "St. Gulik's Day", "St. TFG's Day", "Mojoday",
+  /* 05 */ "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+  /* 10 */ "Chaos", "Discord", "Confusion", "Bureaucracy", "The Aftermath",
+  /* 15 */ "Mungday", "St. Sheep's Day", "St. Brush's Day", "St. Dillinger's Day", "St. Ken's Day",
+  /* 20 */ "Mummery", "St. Levine's Day", "St. Hair's Day", "St. Boom's Day", "St. Enor's Day",
+  /* 25 */ "St. Phantom's Day", "St. Stymie's Day", "St. Spark's Day", "St. Zed's Day", "St. Chutzpah's Day",
+  /* 30 */ "Midyear's Day", "St. Toad's Day", "St. Rutabaga's Day", "St. Angel's Day", "St. Lupine's Day",
+  /* 35 */ "St. Sadie's Day", "St. Gib's Day", "St. EGB's Day", "St. Onco's Day", "St. Veronica's Day",
+  /* 40 */ "St. Vorple's Day", "St. Woo's Day", "St. Stymie's Day", "St. Spark's Day", "St. Zed's Day",
+  /* 45 */ "St. Chutzpah's Day", "St. Phantom's Day", "St. Brush's Day", "St. Dillinger's Day", "St. Ken's Day",
+  /* 50 */ "St. Sheep's Day", "Mungday", "St. Gulik's Day", "St. TFG's Day", "Mojoday",
+  /* 55 */ "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+  /* 60 */ "Chaos", "Discord", "Confusion", "Bureaucracy", "The Aftermath",
+  /* 65 */ "Mojoday", "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle",
+  /* 70 */ "Setting Orange", "Chaoflux", "St. Tib's Day",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
