@@ -107,25 +107,24 @@ char *day_long[5] = {
 };
 
 /**
- * I'm ... not sure WizardLM 100% got the idea. But it's a valid gen, so we take it.
- * The Goddess provides in all things.
+ * We take those, Pixtral Large!
  */
 char *day_extended[73] = {
-  /* 01 */ "Chaoflux", "St. Tib's Day", "St. Gulik's Day", "St. TFG's Day", "Mojoday",
-  /* 05 */ "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  /* 10 */ "Chaos", "Discord", "Confusion", "Bureaucracy", "The Aftermath",
-  /* 15 */ "Mungday", "St. Sheep's Day", "St. Brush's Day", "St. Dillinger's Day", "St. Ken's Day",
-  /* 20 */ "Mummery", "St. Levine's Day", "St. Hair's Day", "St. Boom's Day", "St. Enor's Day",
-  /* 25 */ "St. Phantom's Day", "St. Stymie's Day", "St. Spark's Day", "St. Zed's Day", "St. Chutzpah's Day",
-  /* 30 */ "Midyear's Day", "St. Toad's Day", "St. Rutabaga's Day", "St. Angel's Day", "St. Lupine's Day",
-  /* 35 */ "St. Sadie's Day", "St. Gib's Day", "St. EGB's Day", "St. Onco's Day", "St. Veronica's Day",
-  /* 40 */ "St. Vorple's Day", "St. Woo's Day", "St. Stymie's Day", "St. Spark's Day", "St. Zed's Day",
-  /* 45 */ "St. Chutzpah's Day", "St. Phantom's Day", "St. Brush's Day", "St. Dillinger's Day", "St. Ken's Day",
-  /* 50 */ "St. Sheep's Day", "Mungday", "St. Gulik's Day", "St. TFG's Day", "Mojoday",
-  /* 55 */ "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  /* 60 */ "Chaos", "Discord", "Confusion", "Bureaucracy", "The Aftermath",
-  /* 65 */ "Mojoday", "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle",
-  /* 70 */ "Setting Orange", "Chaoflux", "St. Tib's Day",
+  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+  "Chaos Never Dies", "The Day We Never Remember", "Tomorrow Never Knows", "Yesterday Never Happened", "The Day After Never Was",
+  "Today Immediately", "Almost Friday", "Yesterday", "Wednesday", "Five Weeks Past Thursday",
+  "Kinda A Tuesday Thing", "Is It Thursday Yet?", "What Happened On Tuesday?", "After The Shadow Of Yesterday", "Sunday",
+  "Lost In Time", "There Is Always Something", "Found By Lins", "An Intuitive Monday", "Today Also",
+  "And We Hit Wednesday", "So It Was A Monday", "Daydreaming On Friday", "Chickens Always Die On Tuesday", "Out Of The Blue",
+  "I’m Just Here For The Beer", "Randomness Day", "U Is For Unexpected", "Zero Today", "You Prowl My Decath",
+  "Frontagerourizer", "Air", "Chowder", "Lost Out Of Space", "Android Prefix", "Riddle Hazzards", "This Time",
+  "Travelling Gleeful", "Cappuccino", "Celestial Noon", "Waves Of Synchronicity", "Another Volume",
+  "Deep Thought", "Sky Chasers", "Replay The Memories", "Very Very Late", "Only In The Past Tense",
+  "Remember To Remember", "Of All Things", "This Was Unknown", "Where Dreams Begin", "Consult The Past",
+  "Nothing Is As It Was", "Having Breakfast", "Murasaki Shopping District", "Jazz Funeral", "The Lady Of Gravitree",
+  "Awaiting The Epiphany", "Nothing Happens Today", "The Day Was Completely Lost", "Unseen Sky",
+  "Ninguana Took A Holiday", "Headed Towards The Stratosphere", "Rejoin The Sky", "Not Another Conundrum", "In The Clouds",
+  "Meet In The Middle", "The Crescent Moon"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
