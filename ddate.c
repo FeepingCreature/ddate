@@ -107,24 +107,15 @@ char *day_long[5] = {
 };
 
 /**
- * We take those, Pixtral Large!
+ * Trying a local model.
+ * They can't all be winners tbh.
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Chaos Never Dies", "The Day We Never Remember", "Tomorrow Never Knows", "Yesterday Never Happened", "The Day After Never Was",
-  "Today Immediately", "Almost Friday", "Yesterday", "Wednesday", "Five Weeks Past Thursday",
-  "Kinda A Tuesday Thing", "Is It Thursday Yet?", "What Happened On Tuesday?", "After The Shadow Of Yesterday", "Sunday",
-  "Lost In Time", "There Is Always Something", "Found By Lins", "An Intuitive Monday", "Today Also",
-  "And We Hit Wednesday", "So It Was A Monday", "Daydreaming On Friday", "Chickens Always Die On Tuesday", "Out Of The Blue",
-  "I’m Just Here For The Beer", "Randomness Day", "U Is For Unexpected", "Zero Today", "You Prowl My Decath",
-  "Frontagerourizer", "Air", "Chowder", "Lost Out Of Space", "Android Prefix", "Riddle Hazzards", "This Time",
-  "Travelling Gleeful", "Cappuccino", "Celestial Noon", "Waves Of Synchronicity", "Another Volume",
-  "Deep Thought", "Sky Chasers", "Replay The Memories", "Very Very Late", "Only In The Past Tense",
-  "Remember To Remember", "Of All Things", "This Was Unknown", "Where Dreams Begin", "Consult The Past",
-  "Nothing Is As It Was", "Having Breakfast", "Murasaki Shopping District", "Jazz Funeral", "The Lady Of Gravitree",
-  "Awaiting The Epiphany", "Nothing Happens Today", "The Day Was Completely Lost", "Unseen Sky",
-  "Ninguana Took A Holiday", "Headed Towards The Stratosphere", "Rejoin The Sky", "Not Another Conundrum", "In The Clouds",
-  "Meet In The Middle", "The Crescent Moon"
+  "Fryday", "Blessed Day", "Chickensexingday", "Injury Ides", "Tyranny", "Grumpy", "Hairy", "Ifday", "Whyday", "Semordnilapday", "Groupon", "Foonday", "Eyeday", "Whyday",
+  "Holyday", "Mummyday", "Wasteday", "Pirateday", "Zombiey", "Flirty", "Rabbity", "Caty", "Nanny", "Googly", "Fluffybunny", "Fuzzwuzzy", "Mommyday", "Daddyday", "Stonersday", "Youtubersday", "Yodelday", "Blahday", "Noon", "Chickday",
+  "Rackday", "Payday", "Cokeday", "Weedday", "Numbskull", "Dumbbell", "Fuckit", "Ohcrap", "Shitstorm", "Hellno", "Disasterday", "Dingus", "Dumbass", "Cretin", "Lobotomy", "Mistakeneday", "Oops", "Yikes", "Yippie", "Shenanigansday",
+  "Sillyday", "Fuckery", "Ackshuallyday", "Derp", "WTF", "Karma", "Assbackward", "Peasant", "Meatbag", "Vagrancy", "Arrestme", "Idiocracy", "Unemploymentday", "Taxday"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
