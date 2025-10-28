@@ -107,15 +107,25 @@ char *day_long[5] = {
 };
 
 /**
- * Trying a local model.
- * They can't all be winners tbh.
+ * Local model again! Much better this time.
+ * "The day the Machines Take Over" is mildly worrying. Eh, I'm sure it's nothing.
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Fryday", "Blessed Day", "Chickensexingday", "Injury Ides", "Tyranny", "Grumpy", "Hairy", "Ifday", "Whyday", "Semordnilapday", "Groupon", "Foonday", "Eyeday", "Whyday",
-  "Holyday", "Mummyday", "Wasteday", "Pirateday", "Zombiey", "Flirty", "Rabbity", "Caty", "Nanny", "Googly", "Fluffybunny", "Fuzzwuzzy", "Mommyday", "Daddyday", "Stonersday", "Youtubersday", "Yodelday", "Blahday", "Noon", "Chickday",
-  "Rackday", "Payday", "Cokeday", "Weedday", "Numbskull", "Dumbbell", "Fuckit", "Ohcrap", "Shitstorm", "Hellno", "Disasterday", "Dingus", "Dumbass", "Cretin", "Lobotomy", "Mistakeneday", "Oops", "Yikes", "Yippie", "Shenanigansday",
-  "Sillyday", "Fuckery", "Ackshuallyday", "Derp", "WTF", "Karma", "Assbackward", "Peasant", "Meatbag", "Vagrancy", "Arrestme", "Idiocracy", "Unemploymentday", "Taxday"
+  "Raisin Pudding Day", "Crispy GNU Day", "Wheelmudgeon's Day", "Maudlin's Spurt Day", "Glossarycks",
+  "Dysfunction", "Chiliad", "Reneging Day", "Zorkmid", "Confusion",
+  "Sparafucil", "Lackofy Day", "Gueyday", "Evil', 'Or H.R. 2911", "Shamble", "Feigned Stupidity Day",
+  "Disbelief", "Pretentiousity Day", "Consciousness Expanding Day", "Mumford", "Hag Baths",
+  "Decepticon", "Spindrift", "Fri. Night Doubleheader", "Bureaucra", "Post-Watergate Day",
+  "Bogosity", "Hire and Fire Day", "Unambiguous", "Deciduous", "Jocks & Nigs Collide",
+  "Xerox Day", "The Larynx", "Aggravation", "The Day the Machines Take Over", "Paranoia",
+  "Stench", "Semantic Entropy", "Locus Solus", "Sloppy Workmanship Inst.", "Inanity",
+  "Nihility", "Flabbergast", "Finding Solutions to Problems that were Not Clearly Defined", "Cynic's Holiday",
+  "Pseuds Day", "Stay-in-Bed-with-the-Covers-over-your-Head-nursing-a-Splitting-Headache Morning Day",
+  "Chafed Fin", "Mercury Mon.", "Turing's Test", "Xenophobia Inst.", "Anno Santorum",
+  "Birthday of Bitter Lemons", "Wanna Gnaw on a Bone Day", "Free-Roaming Nectars", "No Duct Tape",
+  "Goof-Off", "Misadventures", "Quasi-Orangutan Day", "Mangled Jello", "Evil Overlord",
+  "(a) Despicable Act(s)", "YHOO", "Inelaborate", "Iridescence", "Indiscernible", "Obscurity", "Quark Day",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
