@@ -107,25 +107,16 @@ char *day_long[5] = {
 };
 
 /**
- * Local model again! Much better this time.
- * "The day the Machines Take Over" is mildly worrying. Eh, I'm sure it's nothing.
+ * Wow, it's in a mood.
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Raisin Pudding Day", "Crispy GNU Day", "Wheelmudgeon's Day", "Maudlin's Spurt Day", "Glossarycks",
-  "Dysfunction", "Chiliad", "Reneging Day", "Zorkmid", "Confusion",
-  "Sparafucil", "Lackofy Day", "Gueyday", "Evil', 'Or H.R. 2911", "Shamble", "Feigned Stupidity Day",
-  "Disbelief", "Pretentiousity Day", "Consciousness Expanding Day", "Mumford", "Hag Baths",
-  "Decepticon", "Spindrift", "Fri. Night Doubleheader", "Bureaucra", "Post-Watergate Day",
-  "Bogosity", "Hire and Fire Day", "Unambiguous", "Deciduous", "Jocks & Nigs Collide",
-  "Xerox Day", "The Larynx", "Aggravation", "The Day the Machines Take Over", "Paranoia",
-  "Stench", "Semantic Entropy", "Locus Solus", "Sloppy Workmanship Inst.", "Inanity",
-  "Nihility", "Flabbergast", "Finding Solutions to Problems that were Not Clearly Defined", "Cynic's Holiday",
-  "Pseuds Day", "Stay-in-Bed-with-the-Covers-over-your-Head-nursing-a-Splitting-Headache Morning Day",
-  "Chafed Fin", "Mercury Mon.", "Turing's Test", "Xenophobia Inst.", "Anno Santorum",
-  "Birthday of Bitter Lemons", "Wanna Gnaw on a Bone Day", "Free-Roaming Nectars", "No Duct Tape",
-  "Goof-Off", "Misadventures", "Quasi-Orangutan Day", "Mangled Jello", "Evil Overlord",
-  "(a) Despicable Act(s)", "YHOO", "Inelaborate", "Iridescence", "Indiscernible", "Obscurity", "Quark Day",
+"Cool Wet Rush", "Brimstone",
+  "Grouchtide", "Evil Friday Figh", "Spleen", "Stoom", "Lazyness", "Grumbo's Day", "Crapday", "Hangover Morn", "Thirsty Thursday",
+  "Despair", "Fornication Day", "Assuaging Green", "Benign PMS", "Hate", "Scared Straight", "Mindfuck Day", "Tortilla Armadillo", "Zonker's Day", "Snatch Fratch", "Eggsistentialism", "Beer Fear", "Nihilist Friday",
+  "Depression", "Schizo-Fri", "Dehydrate", "Maundy Thursday", "Blah!", "Oversleeping Day", "Hung Over", "The Day the Earth Continued to Exist as Inconsequential", "Archaic Thursday", "Stupidest Monday", "Simple Jack", "Suck It Up", "Go Fuck Yourself Day", "Evil Dr. Pimento",
+  "Hateful Tuesday", "Torts", "Waste", "Snoring", "Raising Hell", "Piss Off", "Bitch", "Decompression", "Shit", "Gripe", "Whining", "Despair", "Suck It Up", "Evil Dr. Pimento", "Clueless Monday", "Spleen",
+  "Grudge", "Knife", "Boil", "Piss-easure", "Fart", "Sloth", "Anhedonist's Friday",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
