@@ -111,12 +111,17 @@ char *day_long[5] = {
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-"Cool Wet Rush", "Brimstone",
-  "Grouchtide", "Evil Friday Figh", "Spleen", "Stoom", "Lazyness", "Grumbo's Day", "Crapday", "Hangover Morn", "Thirsty Thursday",
-  "Despair", "Fornication Day", "Assuaging Green", "Benign PMS", "Hate", "Scared Straight", "Mindfuck Day", "Tortilla Armadillo", "Zonker's Day", "Snatch Fratch", "Eggsistentialism", "Beer Fear", "Nihilist Friday",
-  "Depression", "Schizo-Fri", "Dehydrate", "Maundy Thursday", "Blah!", "Oversleeping Day", "Hung Over", "The Day the Earth Continued to Exist as Inconsequential", "Archaic Thursday", "Stupidest Monday", "Simple Jack", "Suck It Up", "Go Fuck Yourself Day", "Evil Dr. Pimento",
-  "Hateful Tuesday", "Torts", "Waste", "Snoring", "Raising Hell", "Piss Off", "Bitch", "Decompression", "Shit", "Gripe", "Whining", "Despair", "Suck It Up", "Evil Dr. Pimento", "Clueless Monday", "Spleen",
-  "Grudge", "Knife", "Boil", "Piss-easure", "Fart", "Sloth", "Anhedonist's Friday",
+  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
+  "Setting Yellow", "Setting Red", "Settin' Blue", "Settin' Green", "The Aftermath",
+  "Tailor", "Fool", "Foole's", "Sweet", "Caturday",
+  "T.S.", "Foul", "Fouling", "Spooking", "Free",
+  "Candlemas", "Chaos", "Discord", "Confusion", "Bureaucracy",
+  "The Aftermath", "Unbeholden", "The Unnamed", "Plagued", "The Aftermath",
+  "Unconceived", "Glorious", "Indeterminate", "The Aftermath", "Drunkenship",
+  "Fruity", "Fruitier", "Frutiest", "The Aftermath", "Cheese",
+  "Cheddar", "Gouda", "Brie", "Stilton", "The Aftermath",
+  "Leap Day", "The Aftermath", "Commodore", "Flattery", "Pleasure",
+  "Intervention", "Ogdoad", "Mecolaid", "Aftermath"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
