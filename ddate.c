@@ -107,21 +107,21 @@ char *day_long[5] = {
 };
 
 /**
- * Wow, it's in a mood.
+ * Nothing too important.
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Setting Yellow", "Setting Red", "Settin' Blue", "Settin' Green", "The Aftermath",
-  "Tailor", "Fool", "Foole's", "Sweet", "Caturday",
-  "T.S.", "Foul", "Fouling", "Spooking", "Free",
-  "Candlemas", "Chaos", "Discord", "Confusion", "Bureaucracy",
-  "The Aftermath", "Unbeholden", "The Unnamed", "Plagued", "The Aftermath",
-  "Unconceived", "Glorious", "Indeterminate", "The Aftermath", "Drunkenship",
-  "Fruity", "Fruitier", "Frutiest", "The Aftermath", "Cheese",
-  "Cheddar", "Gouda", "Brie", "Stilton", "The Aftermath",
-  "Leap Day", "The Aftermath", "Commodore", "Flattery", "Pleasure",
-  "Intervention", "Ogdoad", "Mecolaid", "Aftermath"
+  "Blindly Grinning", "Puzzling", "Slipping", "Morning Fume",
+  "Glorious Golden", "Rustled", "Whispering", "Brunching", "Falling Faintly",
+  "Lunchtime", "Eating Goldfish", "Craving", "Dropping", "Afternoon Fume",
+  "Desireless", "Cautious", "Splitting", "Spoiling", "Squeaking",
+  "Paranoid", "Chattering", "Gnawing", "Squirming", "Twilight Fume",
+  "Thinking", "Wandering", "Bored", "Fidgeting", "Tapping Foot",
+  "Nervous", "Incredulous", "Sleeping", "Snoring", "Dreaming Vaguely",
+  "Drowsy", "Snoozing", "Mumbling", "Yawning", "Late Evening Fume",
+  "Bored Stiff", "Slumpish", "Withered", "Slothful", "Collapsing",
+  "Shriveling", "Dying Slowly", "Crashing", "Deadly Silent",
+  "Midnight Fume", "Groaning", "Moaning", "Bubbling", "Oozing"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
