@@ -107,21 +107,24 @@ char *day_long[5] = {
 };
 
 /**
- * Nothing too important.
+ * Normal month.
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Blindly Grinning", "Puzzling", "Slipping", "Morning Fume",
-  "Glorious Golden", "Rustled", "Whispering", "Brunching", "Falling Faintly",
-  "Lunchtime", "Eating Goldfish", "Craving", "Dropping", "Afternoon Fume",
-  "Desireless", "Cautious", "Splitting", "Spoiling", "Squeaking",
-  "Paranoid", "Chattering", "Gnawing", "Squirming", "Twilight Fume",
-  "Thinking", "Wandering", "Bored", "Fidgeting", "Tapping Foot",
-  "Nervous", "Incredulous", "Sleeping", "Snoring", "Dreaming Vaguely",
-  "Drowsy", "Snoozing", "Mumbling", "Yawning", "Late Evening Fume",
-  "Bored Stiff", "Slumpish", "Withered", "Slothful", "Collapsing",
-  "Shriveling", "Dying Slowly", "Crashing", "Deadly Silent",
-  "Midnight Fume", "Groaning", "Moaning", "Bubbling", "Oozing"
+  "Flax", "Gourd", "Merchant's Grief", "Hypnocracy", "Potato Day",
+  "Chocolate Sundae", "Frying Pan", "Crush-ula", "Bureaucracy", "Left-Handed Linen Day",
+  "Run", "Waste", "Spring Cleaning", "Belligerent", "Anarchist",
+  "Confusion", "Shining Metal", "Cockroach", "Lamb's Breath", "Heavenly Gateways",
+  "Plastic Surgery", "Unlust", "Glorious", "Stir-Fry", "Tortilla",
+  "Holy Tortilla of Anarchy", "Pasta", "Slaves' Day Off", "Cynic's Day",
+  "Mango", "Bastille Day",
+  "Peach-Fuzz", "Wipeout", "Chicken-Wing", "Leftover", "Odd", "Ogre-Banquet",
+  "Enchanted Eel", "Dice-Poker-Gambling",
+  "Revolution", "Sour Milk", "Nutrition", "Ecstasy", "Whim",
+  "Frog", "Nervous", "Hippo-Hug", "Cheese", "Kung Fu",
+  "YETI", "Splendor", "Judo", "Kangaroo-Court", "Gorilla-Suit",
+  "Abra-Cadabra", "Priestess", "Shinny", "Shrubbery", "Apatheid",
+  "Hippopotamus-Rider",
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
