@@ -107,24 +107,28 @@ char *day_long[5] = {
 };
 
 /**
- * Normal month.
+ * Model was oddly resistant this month.
  */
 char *day_extended[73] = {
   "Sweetmorn", "Boomtime", "Pungenday", "Prickle-Prickle", "Setting Orange",
-  "Flax", "Gourd", "Merchant's Grief", "Hypnocracy", "Potato Day",
-  "Chocolate Sundae", "Frying Pan", "Crush-ula", "Bureaucracy", "Left-Handed Linen Day",
-  "Run", "Waste", "Spring Cleaning", "Belligerent", "Anarchist",
-  "Confusion", "Shining Metal", "Cockroach", "Lamb's Breath", "Heavenly Gateways",
-  "Plastic Surgery", "Unlust", "Glorious", "Stir-Fry", "Tortilla",
-  "Holy Tortilla of Anarchy", "Pasta", "Slaves' Day Off", "Cynic's Day",
-  "Mango", "Bastille Day",
-  "Peach-Fuzz", "Wipeout", "Chicken-Wing", "Leftover", "Odd", "Ogre-Banquet",
-  "Enchanted Eel", "Dice-Poker-Gambling",
-  "Revolution", "Sour Milk", "Nutrition", "Ecstasy", "Whim",
-  "Frog", "Nervous", "Hippo-Hug", "Cheese", "Kung Fu",
-  "YETI", "Splendor", "Judo", "Kangaroo-Court", "Gorilla-Suit",
-  "Abra-Cadabra", "Priestess", "Shinny", "Shrubbery", "Apatheid",
-  "Hippopotamus-Rider",
+  "The Nameless Day of the Fünnishness", "Grinning Chuckle",
+  "Everything Is Going According To Some Plan, I'm Sure", "Hogswill End In Tears", "Happy Bog",
+  "This Isn't The Worst Thing That Happened Today",
+  "Mopping Fryday", "Not-Fülnborger", "Don't Ask Why", "I Am Trying Not To Spoil Anybody's Fun",
+  "Year-For-The-Job", "Bureaucracy", "Tortoise Flop", "Friday Afternoon",
+  "Crunchy Frogs", "Eyebrow Of Surneness", "Confusion", "Disgusting Orange Thursday", "Inability to Pay Attention",
+  "Lumps", "Chairman Of The Bored Meeting", "Getting Rid Of All Your Dreams At Once", "Over The Edge",
+  "Dogs' Day Against Being Taken For A Walk", "Eating", "Watching", "Putting On My Shoes",
+  "Being Furious About Something Unrelated To Your Life", "Junction", "Lantern Enunciation",
+  "Shining Windy Field Of Ants", "Capping Off", "All Is Okay", "Placid", "Trembling Violet", "Splattering Fungeons",
+  "The Unspeakable Hours", "Fisting Furiously Into The Ground", "Just Standing There", "A Miracle",
+  "Spaghetti Day", "Kicking And Screaming Against The Dying Of The Light", "Scattered Showers",
+  "Whither", "Dying Grasp of the Professor", "The First Hundred Are Free", "Out Of Range",
+  "Causing Catastrophe For Fun And Profit", "Nearing An Important Date", "Growing Up", "Smashing Faces",
+  "Underworld", "Beets And Buttered Toast", "Black Voodoo Death Gasm", "Rallying Point",
+  "Nothing Has Happened, Nothing Will Happen, Nothing Happens Now", "Donkey Rearing Day", "A Bit Of A Grope",
+  "Declarative Explanatory Period", "Chewing With Open Mouth", "Blind Dog At A Jelly Bean Factory", "Stick",
+  "Backward", "Slow Descent", "Somebody Thinks You're Great", "Stabbing", "Vulgar Sink", "Muggy"
 };
 
 char *day_short[5] = {"SM","BT","PD","PP","SO"};
